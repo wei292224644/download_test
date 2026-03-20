@@ -15,7 +15,7 @@ from openai import OpenAI
 # 默认输出后缀（xxx.md -> xxx.reorganized.md）
 DEFAULT_OUT_SUFFIX = ".reorganized"
 # 默认递归目录
-DEFAULT_DIR = "output"
+DEFAULT_DIR = "_all_md"
 # 默认允许的最大输出 token
 DEFAULT_MAX_TOKENS = 20480
 MAX_LLM_RETRIES = 3
@@ -78,13 +78,13 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--out-suffix",
         type=str,
-        default=DEFAULT_OUT_SUFFIX,
+        default="",
         help=f"输出文件名后缀，如 .reorganized（默认: {DEFAULT_OUT_SUFFIX}）",
     )
     parser.add_argument(
         "--out-dir",
         type=Path,
-        default=None,
+        default="./reorganized",
         metavar="PATH",
         help="所有输出写入该目录；不指定则与源文件同目录",
     )
@@ -317,7 +317,9 @@ def unwrap_fenced_code(text: str) -> str:
 
 DASHSCOPE_BASE_URL = os.environ.get(
     "DASHSCOPE_BASE_URL",
-    os.environ.get("OPENAI_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1"),
+    os.environ.get(
+        "OPENAI_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1"
+    ),
 )
 DASHSCOPE_API_KEY = os.environ.get(
     "DASHSCOPE_API_KEY", os.environ.get("OPENAI_API_KEY", "")
@@ -340,7 +342,10 @@ def _chat(
         r = client.chat.completions.create(
             model=model,
             messages=[
-                {"role": "system", "content": "整理当前文档，只需要调整文档的结构，不需要做任何其他改动。清除没有意义的换行和空格。不可以增加任何新的内容。直接输出整理后的文档，不要任何解释。"},
+                {
+                    "role": "system",
+                    "content": "整理当前文档，只需要调整文档的结构，不需要做任何其他改动。清除没有意义的换行和空格。不可以增加任何新的内容。直接输出整理后的文档，不要任何解释。",
+                },
                 {"role": "user", "content": user},
             ],
             max_tokens=max_tokens,
@@ -350,10 +355,9 @@ def _chat(
             extra_body={"enable_thinking": False},
             timeout=timeout,
         )
-        content = (r.choices[0].message.content or "").strip() if r and r.choices else ""
-        print("*" * 100)
-        print(content)
-        print("*" * 100)
+        content = (
+            (r.choices[0].message.content or "").strip() if r and r.choices else ""
+        )
         if not content:
             return None
         return content
@@ -466,12 +470,12 @@ def process_one(
 
     base_user_content = USER_PROMPT_PREFIX + raw
     out = call_llm(
-            SYSTEM_PROMPT,
-            base_user_content,
-            timeout,
-            model_name=model_name,
-            max_tokens=max_tokens,
-        )
+        SYSTEM_PROMPT,
+        base_user_content,
+        timeout,
+        model_name=model_name,
+        max_tokens=max_tokens,
+    )
 
     if out_dir is not None:
         out_dir.mkdir(parents=True, exist_ok=True)
