@@ -1,0 +1,14 @@
+downloads/
+
+downloads/**
+
+output/**
+
+docs/
+
+.venv/
+
+__pycache__
+
+
+uv.lock

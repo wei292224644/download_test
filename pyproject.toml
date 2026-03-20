@@ -1,0 +1,21 @@
+[project]
+name = "download-gb"
+version = "0.1.0"
+description = "从 sppt.cfsa.net.cn 爬取并下载国家标准（标准文本）"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "playwright>=1.40.0",
+    "loguru",
+    "mineru",
+    "torch",
+    "doclayout-yolo",
+    "ultralytics",
+    "tokenizers",
+    "openai>=2.24.0",
+]
+
+[project.scripts]
+
+[tool.uv]
+dev-dependencies = []
