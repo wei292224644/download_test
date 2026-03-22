@@ -249,8 +249,8 @@ def parse_args() -> argparse.Namespace:
         "--heading-plan",
         action="store_true",
         help=(
-            "标题计划模式：仅将标题骨架（id + 文本 + 原层级）送 LLM，"
-            "返回带 op 的 JSON 计划后本地重建全文；支持 block 与 merge。"
+            "标题计划模式：以 Markdown 列出标题骨架（id + 原层级 + 标题文字）送 LLM，"
+            "模型返回 block/merge 纯文本计划行后本地重建全文。"
             "与全文整理互斥，且不受全文 max_chars 超长跳过影响。"
         ),
     )
