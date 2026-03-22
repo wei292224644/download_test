@@ -570,26 +570,99 @@ def _merge_heading_texts_from_blocks(
     return "".join(parts)
 
 
+def _normalize_heading_plan_line(line: str) -> str:
+    """去掉列表符等前缀，得到 block/merge 起始行。"""
+    s = line.strip()
+    for prefix in ("- ", "* ", "• "):
+        if s.startswith(prefix):
+            s = s[len(prefix) :].strip()
+            break
+    return s
+
+
+def build_heading_skeleton_markdown(blocks: list[dict[str, object]]) -> str:
+    """将标题块列表格式化为 Markdown，供标题计划模式送入 LLM（非 JSON）。"""
+    lines: list[str] = [
+        "## 标题块列表（按原文顺序）",
+        "",
+        "下列仅含占位 id、原层级与标题文字；正文未包含，请勿编造。",
+        "",
+    ]
+    for b in blocks:
+        bid = str(b["id"])
+        ol = int(b["orig_level"])  # type: ignore[arg-type]
+        ht = str(b["heading_text"])
+        lines.append(f"### `{bid}` · 原层级 {ol}")
+        lines.append("")
+        lines.append(f"**标题文字**：{ht}")
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def parse_heading_plan_markdown(plan_output: str) -> list[dict[str, object]] | None:
+    """
+    解析 LLM 返回的标题计划（纯文本行，非 JSON）：
+      block <id> <level>
+      merge <id1> <id2> ... <idN> <level>   （最后一个 token 为层级）
+    允许空行；以 # 开头的行视为注释并跳过。
+    """
+    t = prepare_model_markdown(plan_output)
+    if not t.strip():
+        return None
+    ops: list[dict[str, object]] = []
+    for raw_line in t.split("\n"):
+        line = _normalize_heading_plan_line(raw_line)
+        if not line:
+            continue
+        if line.startswith("#"):
+            continue
+        parts = line.split()
+        if len(parts) < 2:
+            return None
+        cmd = parts[0].lower()
+        if cmd == "block":
+            if len(parts) != 3:
+                return None
+            try:
+                level = int(parts[2])
+            except ValueError:
+                return None
+            if not 1 <= level <= 6:
+                return None
+            ops.append({"op": "block", "id": parts[1], "level": level})
+        elif cmd == "merge":
+            if len(parts) < 4:
+                return None
+            try:
+                level = int(parts[-1])
+            except ValueError:
+                return None
+            if not 1 <= level <= 6:
+                return None
+            ids = parts[1:-1]
+            if len(ids) < 2:
+                return None
+            ops.append({"op": "merge", "ids": ids, "level": level})
+        else:
+            return None
+    return ops if ops else None
+
+
 def build_by_heading_plan_ops(original: str, plan_output: str) -> str | None:
     """
-    根据扩展计划 JSON 重建文档。
-    支持：
-      {"op":"block","id":"H0001","level":2}
-      {"op":"merge","ids":["H0001","H0002"],"level":1}
-    以及旧格式 {"id":"H0001","level":1}（视为 block）。
+    根据扩展计划（Markdown 纯文本行）重建文档。
+    计划行格式：
+      block H0001 2
+      merge H0001 H0002 1
     """
     prefix_lines, blocks = split_heading_blocks(original)
     if not blocks:
         return original
 
-    raw_json = _extract_json_array(plan_output)
-    if raw_json is None:
-        return None
-    try:
-        plan = json.loads(raw_json)
-    except Exception:
-        return None
-    if not isinstance(plan, list):
+    plan = parse_heading_plan_markdown(plan_output)
+    if plan is None:
         return None
 
     block_map = {str(b["id"]): b for b in blocks}
@@ -848,33 +921,33 @@ SYSTEM_PLAN_PROMPT = """你是 Markdown 标题重排规划器。
 
 SYSTEM_HEADING_PLAN_MERGE_PROMPT = """你是 Markdown 标题重排规划器（标题计划模式）。
 
-你只根据输入的 JSON 标题骨架（id、heading_text、orig_level）输出**一个 JSON 数组**，不要任何额外文字、不要用代码块包裹。
+你只根据输入的 Markdown「标题块列表」输出**标题计划**：使用纯文本行描述，**不要使用 JSON**。
 
-数组元素只能是以下两种对象之一：
+每一行一条指令（可省略空行；不要用代码块包裹整段输出亦可）：
 
 1) 单块（对应一个原标题块）：
-   {"op":"block","id":"H0001","level":2}
+   block <id> <level>
+   示例：block H0001 2
 
-2) 合并块（将**原文档顺序中相邻**的多个块合并为一行标题；合并后标题文字由程序按各块 heading_text 顺序直接拼接，你不得改写文字）：
-   {"op":"merge","ids":["H0001","H0002"],"level":1}
+2) 合并块（将**原文档顺序中相邻**的多个块合并为一行标题；合并后标题文字由程序按各块标题文字顺序直接拼接，你不得改写文字）：
+   merge <id1> <id2> ... <idN> <level>
+   最后一个数字为层级。示例：merge H0001 H0002 1
 
 严格要求：
-- 只能使用输入中出现的 id，每个 id 在整段计划中**恰好出现一次**（出现在唯一一条 block 或唯一一条 merge 的 ids 里）。
-- merge.ids 中的块在原文顺序上必须**连续**（不允许跳过中间块合并）。
+- 只能使用输入中出现的 id，每个 id 在整段计划中**恰好出现一次**（出现在唯一一行 block 或唯一一行 merge 的 id 列表里）。
+- merge 中的块在原文顺序上必须**连续**（不允许跳过中间块合并）。
 - level 必须是 1..6 的整数。
-- 可调整输出顺序以反映正确的章节层级与从属关系；可将相邻块合并为 merge。
+- 可调整输出行的顺序以反映正确的章节层级与从属关系；可将相邻块合并为 merge。
 - 多级编号小节（如 2.1、3.2.1）不得给 level=1。
-- 不要输出除 JSON 数组外的任何字符。"""
+- 除上述 block/merge 行外不要输出其它解释文字（不要用 JSON）。"""
 
 USER_HEADING_PLAN_PREFIX = (
-    "以下为文档标题块列表（JSON）。请输出符合系统说明的 block/merge 计划数组。\n"
-    "正文未给出；请勿编造。仅使用下列 id。\n\n"
+    "以下为文档的标题块摘录（Markdown）。请根据系统说明输出 block/merge 计划行。\n\n"
 )
 
-RETRY_FEEDBACK_PLAN_JSON = (
-    "\n\n【上次输出无效】必须是可解析的 JSON 数组；"
-    "元素为 {\"op\":\"block\",\"id\":\"...\",\"level\":n} 或 {\"op\":\"merge\",\"ids\":[...],\"level\":n}；"
-    "每个 id 恰好出现一次；merge 的 ids 须在原文顺序中连续。"
+RETRY_FEEDBACK_PLAN_LINES = (
+    "\n\n【上次输出无效】请只输出文本行：block <id> <level> 或 merge <id>... <level>；"
+    "不要使用 JSON；每个 id 恰好出现一次；merge 的 id 须在原文顺序中连续。"
 )
 
 RETRY_FEEDBACK_PLAN_BODY = (
@@ -898,17 +971,7 @@ def reorganize_heading_plan_with_retries(
     if not blocks:
         return working
 
-    skeleton = json.dumps(
-        [
-            {
-                "id": b["id"],
-                "heading_text": b["heading_text"],
-                "orig_level": b["orig_level"],
-            }
-            for b in blocks
-        ],
-        ensure_ascii=False,
-    )
+    skeleton = build_heading_skeleton_markdown(blocks)
     _, susp_in = count_h1_and_suspicious(working)
     input_hint = USER_PROMPT_INPUT_HINT_SUSPICIOUS_H1 if susp_in > 0 else ""
     feedback = ""
@@ -955,7 +1018,7 @@ def reorganize_heading_plan_with_retries(
                 attempt + 1,
                 max_llm_retries,
             )
-            feedback = RETRY_FEEDBACK_PLAN_JSON
+            feedback = RETRY_FEEDBACK_PLAN_LINES
             continue
 
         if non_heading_line_counter(working) != non_heading_line_counter(built):
