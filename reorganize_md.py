@@ -606,7 +606,7 @@ def parse_heading_plan_markdown(plan_output: str) -> list[dict[str, object]] | N
     解析 LLM 返回的标题计划（纯文本行，非 JSON）：
       block <id> <level>
       merge <id1> <id2> ... <idN> <level>   （最后一个 token 为层级）
-    允许空行；以 # 开头的行视为注释并跳过。
+    允许空行；以 # 开头的行视为注释并跳过；非 block/merge 起始行忽略（兼容模型多写一句说明）。
     """
     t = prepare_model_markdown(plan_output)
     if not t.strip():
@@ -620,7 +620,7 @@ def parse_heading_plan_markdown(plan_output: str) -> list[dict[str, object]] | N
             continue
         parts = line.split()
         if len(parts) < 2:
-            return None
+            continue
         cmd = parts[0].lower()
         if cmd == "block":
             if len(parts) != 3:
@@ -646,7 +646,7 @@ def parse_heading_plan_markdown(plan_output: str) -> list[dict[str, object]] | N
                 return None
             ops.append({"op": "merge", "ids": ids, "level": level})
         else:
-            return None
+            continue
     return ops if ops else None
 
 
