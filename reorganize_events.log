@@ -1,0 +1,56 @@
+--- batch 2026-03-22T08:36:52Z ---
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 14880-2012 食品安全国家标准 食品营养强化剂使用标准.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 14880-2012 食品安全国家标准 食品营养强化剂使用标准.md chars=39419
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 14881-2025 食品安全国家标准 食品生产通用卫生规范.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 14881-2025 食品安全国家标准 食品生产通用卫生规范.md chars=26077
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 14883.3-2016 食品安全国家标准 食品中放射性物质锶-89和锶-90的测定.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 14883.3-2016 食品安全国家标准 食品中放射性物质锶-89和锶-90的测定.md chars=27354
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 14883.6-2016 食品安全国家标准 食品中放射性物质镭-226和镭-228的测定.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 14883.6-2016 食品安全国家标准 食品中放射性物质镭-226和镭-228的测定.md chars=15259
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 14888.1-2010 食品安全国家标准 食品添加剂 新红.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 14888.1-2010 食品安全国家标准 食品添加剂 新红.md chars=20872
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 15193.3-2003 食品安全国家标准 急性经口毒性试验.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 15193.3-2003 食品安全国家标准 急性经口毒性试验.md chars=44809
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 15193.4-2003 食品安全国家标准 细菌回复突变试验.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 15193.4-2003 食品安全国家标准 细菌回复突变试验.md chars=21177
+[32m[SUMMARY][0m time=2026-03-22T08:36:52Z total=100 SUCCESS=92 SKIP_EXISTING=0 SKIP_TOO_LONG=8 ERROR_READ=0 ERROR_LLM=0 ERROR_WRITE=0
+
+--- batch 2026-03-22T11:08:36Z ---
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 17512.1-2010 食品安全国家标准 食品添加剂 赤藓红.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 17512.1-2010 食品安全国家标准 食品添加剂 赤藓红.md chars=15887
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 1886.104-2015 食品安全国家标准 食品添加剂 喹啉黄.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 1886.104-2015 食品安全国家标准 食品添加剂 喹啉黄.md chars=15605
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 1886.104-2024 食品安全国家标准 食品添加剂 喹啉黄.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 1886.104-2024 食品安全国家标准 食品添加剂 喹啉黄.md chars=16648
+[32m[SUMMARY][0m time=2026-03-22T11:08:36Z total=100 SUCCESS=97 SKIP_EXISTING=0 SKIP_TOO_LONG=3 ERROR_READ=0 ERROR_LLM=0 ERROR_WRITE=0
+
+--- batch 2026-03-22T11:19:39Z ---
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 1886.174-2016 食品安全国家标准 食品添加剂 食品工业用酶制剂.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 1886.174-2016 食品安全国家标准 食品添加剂 食品工业用酶制剂.md chars=61675
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 1886.174-2024 食品安全国家标准 食品添加剂 食品工业用酶制剂.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 1886.174-2024 食品安全国家标准 食品添加剂 食品工业用酶制剂.md chars=32351
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 1886.187-2016 食品安全国家标准 食品添加剂 山梨糖醇和山梨糖醇液.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 1886.187-2016 食品安全国家标准 食品添加剂 山梨糖醇和山梨糖醇液.md chars=22960
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 1886.220-2016 食品安全国家标准 食品添加剂 胭脂红.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 1886.220-2016 食品安全国家标准 食品添加剂 胭脂红.md chars=19137
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 1886.222-2016 食品安全国家标准 食品添加剂 诱惑红.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 1886.222-2016 食品安全国家标准 食品添加剂 诱惑红.md chars=20186
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 1886.228-2016 食品安全国家标准 食品添加剂 二氧化碳.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 1886.228-2016 食品安全国家标准 食品添加剂 二氧化碳.md chars=17236
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 1886.233-2016 食品安全国家标准 食品添加剂 维生素E.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 1886.233-2016 食品安全国家标准 食品添加剂 维生素E.md chars=16790
+[32m[SUMMARY][0m time=2026-03-22T11:19:39Z total=100 SUCCESS=93 SKIP_EXISTING=0 SKIP_TOO_LONG=7 ERROR_READ=0 ERROR_LLM=0 ERROR_WRITE=0
+
+--- batch 2026-03-22T11:44:13Z ---
+[32m[SUMMARY][0m time=2026-03-22T11:44:13Z total=100 SUCCESS=100 SKIP_EXISTING=0 SKIP_TOO_LONG=0 ERROR_READ=0 ERROR_LLM=0 ERROR_WRITE=0
+
+--- batch 2026-03-22T12:10:32Z ---
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 1886.359-2022 食品安全国家标准 食品添加剂 胶基及其配料.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 1886.359-2022 食品安全国家标准 食品添加剂 胶基及其配料.md chars=55673
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 1886.374-2024 食品安全国家标准 食品添加剂 纤维素.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 1886.374-2024 食品安全国家标准 食品添加剂 纤维素.md chars=23489
+[32m[SUMMARY][0m time=2026-03-22T12:10:32Z total=100 SUCCESS=98 SKIP_EXISTING=0 SKIP_TOO_LONG=2 ERROR_READ=0 ERROR_LLM=0 ERROR_WRITE=0
+
+--- batch 2026-03-22T12:35:23Z ---
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 1903.27-2022 食品安全国家标准 食品营养强化剂 低聚半乳糖.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 1903.27-2022 食品安全国家标准 食品营养强化剂 低聚半乳糖.md chars=17584
+[32m[SUMMARY][0m time=2026-03-22T12:35:23Z total=100 SUCCESS=99 SKIP_EXISTING=0 SKIP_TOO_LONG=1 ERROR_READ=0 ERROR_LLM=0 ERROR_WRITE=0
+
+--- batch 2026-03-22T13:52:58Z ---
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 1903.80-2025 食品安全国家标准 食品营养强化剂 酵母β-葡聚糖.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 1903.80-2025 食品安全国家标准 食品营养强化剂 酵母β-葡聚糖.md chars=15392
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 23200.10-2016 食品安全国家标准 桑枝、金银花、枸杞子和荷叶中488种农药及相关化学品残留量的测定 气相色谱-质谱法.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 23200.10-2016 食品安全国家标准 桑枝、金银花、枸杞子和荷叶中488种农药及相关化学品残留量的测定 气相色谱-质谱法.md chars=175642
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 23200.11-2016 食品安全国家标准 桑枝、金银花、枸杞子和荷叶中413种农药及相关化学品残留量的测定 液相色谱-质谱法.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 23200.11-2016 食品安全国家标准 桑枝、金银花、枸杞子和荷叶中413种农药及相关化学品残留量的测定 液相色谱-质谱法.md chars=182193
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 23200.113-2018 食品安全国家标准 植物源性食品中208种农药及其代谢物 残留量的测定 气相色谱-质谱联用法.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 23200.113-2018 食品安全国家标准 植物源性食品中208种农药及其代谢物 残留量的测定 气相色谱-质谱联用法.md chars=160124
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 23200.116-2019 食品安全国家标准 品安全国家标准 植物源性食品中90种有机磷类农药及其代谢物残留量的测定 气相色谱法(供参考).md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 23200.116-2019 食品安全国家标准 品安全国家标准 植物源性食品中90种有机磷类农药及其代谢物残留量的测定 气相色谱法(供参考).md chars=53714
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 23200.12-2016 食品安全国家标准 食用菌中440种农药及相关化学品残留量的测定 液相色谱-质谱法.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 23200.12-2016 食品安全国家标准 食用菌中440种农药及相关化学品残留量的测定 液相色谱-质谱法.md chars=226291
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 23200.121-2021 食品安全国家标准 植物源性食品中331种农药及其代谢物 残留量的测定 液相色谱-质谱联用法.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 23200.121-2021 食品安全国家标准 植物源性食品中331种农药及其代谢物 残留量的测定 液相色谱-质谱联用法.md chars=276881
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 23200.13-2016 食品安全国家标准 茶叶中448种农药及相关化学品残留量的测定 液相色谱-质谱法.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 23200.13-2016 食品安全国家标准 茶叶中448种农药及相关化学品残留量的测定 液相色谱-质谱法.md chars=235465
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 23200.14-2016 食品安全国家标准 果蔬汁和果酒中512种农药及相关化学品残留量的测定 液相色谱-质谱法.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 23200.14-2016 食品安全国家标准 果蔬汁和果酒中512种农药及相关化学品残留量的测定 液相色谱-质谱法.md chars=335003
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 23200.15-2016 食品安全国家标准 食用菌中503种农药及相关化学品残留量的测定 气相色谱-质谱法.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 23200.15-2016 食品安全国家标准 食用菌中503种农药及相关化学品残留量的测定 气相色谱-质谱法.md chars=188887
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 23200.3-2016 食品安全国家标准 除草剂残留量检测方法 第3部分：液相色谱-质谱质谱法测定 食品中环己酮类除草剂残留量.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 23200.3-2016 食品安全国家标准 除草剂残留量检测方法 第3部分：液相色谱-质谱质谱法测定 食品中环己酮类除草剂残留量.md chars=28011
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 23200.33-2016 食品安全国家标准 食品中解草嗪、莎稗磷、二丙烯草胺等110种农药残留量的测定 气相色谱-质谱法.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 23200.33-2016 食品安全国家标准 食品中解草嗪、莎稗磷、二丙烯草胺等110种农药残留量的测定 气相色谱-质谱法.md chars=48774
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 23200.34-2016 食品安全国家标准 食品中涕灭砜威、吡唑醚菌酯、嘧菌酯等65种农药残留量的测定 液相色谱-质谱质谱法.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 23200.34-2016 食品安全国家标准 食品中涕灭砜威、吡唑醚菌酯、嘧菌酯等65种农药残留量的测定 液相色谱-质谱质谱法.md chars=79485
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 23200.35-2016 食品安全国家标准 植物源性食品中取代脲类农药残留量的测定液相色谱-质谱法.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 23200.35-2016 食品安全国家标准 植物源性食品中取代脲类农药残留量的测定液相色谱-质谱法.md chars=20195
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 23200.37-2016 食品安全国家标准 食品中烯啶虫胺、呋虫胺等20种农药残留量的测定 液相色谱-质谱质谱法.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 23200.37-2016 食品安全国家标准 食品中烯啶虫胺、呋虫胺等20种农药残留量的测定 液相色谱-质谱质谱法.md chars=26149
+[33m[SKIP_TOO_LONG][0m src=/Users/wwj/Desktop/myself/download_test/_all_md_renamed/GB 23200.38-2016 食品安全国家标准 植物源性食品中环己烯酮类除草剂残留量的测定液相色谱-质谱质谱法.md out=/Users/wwj/Desktop/myself/download_test/reorganized/GB 23200.38-2016 食品安全国家标准 植物源性食品中环己烯酮类除草剂残留量的测定液相色谱-质谱质谱法.md chars=15524
+[32m[SUMMARY][0m time=2026-03-22T13:52:58Z total=100 SUCCESS=84 SKIP_EXISTING=0 SKIP_TOO_LONG=16 ERROR_READ=0 ERROR_LLM=0 ERROR_WRITE=0
