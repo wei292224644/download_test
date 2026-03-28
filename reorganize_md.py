@@ -828,13 +828,6 @@ def call_llm(
     max_tokens: int = DEFAULT_MAX_TOKENS,
 ) -> str | None:
     """仅使用 DashScope 调用，失败返回 None。调用前打印完整 system / user 便于调试。"""
-    logger.info(
-        "【LLM 请求】system 字符数={}, user 字符数={}",
-        len(system),
-        len(user),
-    )
-    logger.info("---------- LLM system ----------\n{}", system)
-    logger.info("---------- LLM user ----------\n{}", user)
     return call_dashscope(
         system,
         user,
