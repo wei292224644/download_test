@@ -1,0 +1,2876 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        56,
+                        87,
+                        466,
+                        105
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                87,
+                                466,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        87,
+                                        466,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "附录三 《中国居民膳食营养素参考摄入量（2023版）》分类总表"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        48,
+                        163,
+                        680,
+                        462
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                291,
+                                148,
+                                437,
+                                160
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        291,
+                                        148,
+                                        437,
+                                        160
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                291,
+                                                148,
+                                                437,
+                                                160
+                                            ],
+                                            "type": "text",
+                                            "content": "附表 3-1 膳食能量需要量 (EER)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                163,
+                                680,
+                                462
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        163,
+                                        680,
+                                        462
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                48,
+                                                163,
+                                                680,
+                                                462
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"3\">年龄/ 阶段</td><td colspan=\"6\">男性</td><td colspan=\"5\">女性</td><td></td></tr><tr><td colspan=\"2\">PAL 1°</td><td colspan=\"2\">PAL 1b</td><td colspan=\"2\">PAL 1c</td><td colspan=\"2\">PAL 1a</td><td colspan=\"2\">PAL 1b</td><td>PAL 1c</td><td></td></tr><tr><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td></tr><tr><td>0岁~</td><td>-</td><td>0.38MJ/(kg·d)</td><td>90kcal/(kg·d)</td><td>-</td><td>-</td><td>-</td><td>0.38MJ/(kg·d)</td><td>90kcal/(kg·d)</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>0.5岁~</td><td>-</td><td>0.31MJ/(kg·d)</td><td>75kcal/(kg·d)</td><td>-</td><td>-</td><td>-</td><td>0.31MJ/(kg·d)</td><td>75kcal/(kg·d)</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>1岁~</td><td>-</td><td>3.77</td><td>900</td><td>-</td><td>-</td><td>-</td><td>3.35</td><td>800</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>2岁~</td><td>-</td><td>4.60</td><td>1100</td><td>-</td><td>-</td><td>-</td><td>4.18</td><td>1000</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>3岁~</td><td>-</td><td>5.23</td><td>1250</td><td>-</td><td>-</td><td>-</td><td>4.81</td><td>1150</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>4岁~</td><td>-</td><td>5.44</td><td>1300</td><td>-</td><td>-</td><td>-</td><td>5.23</td><td>1250</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>5岁~</td><td>-</td><td>5.86</td><td>1400</td><td>-</td><td>-</td><td>-</td><td>5.44</td><td>1300</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>6岁~</td><td>5.86</td><td>1400</td><td>6.69</td><td>1600</td><td>7.53</td><td>1800</td><td>5.44</td><td>1300</td><td>6.07</td><td>1450</td><td>6.90</td><td>1650</td></tr><tr><td>7岁~</td><td>6.28</td><td>1500</td><td>7.11</td><td>1700</td><td>7.95</td><td>1900</td><td>5.65</td><td>1350</td><td>6.49</td><td>1550</td><td>7.32</td><td>1750</td></tr><tr><td>8岁~</td><td>6.69</td><td>1600</td><td>7.74</td><td>1850</td><td>8.79</td><td>2100</td><td>6.07</td><td>1450</td><td>7.11</td><td>1700</td><td>7.95</td><td>1900</td></tr><tr><td>9岁~</td><td>7.11</td><td>1700</td><td>8.16</td><td>1950</td><td>9.20</td><td>2200</td><td>6.49</td><td>1550</td><td>7.53</td><td>1800</td><td>8.37</td><td>2000</td></tr><tr><td>10岁~</td><td>7.53</td><td>1800</td><td>8.58</td><td>2050</td><td>9.62</td><td>2300</td><td>6.90</td><td>1650</td><td>7.95</td><td>1900</td><td>8.79</td><td>2100</td></tr></table>",
+                                            "image_path": "29626717f340f8025b10dca1e37204b1020fa4fc1fb0c3fe7e875068437e0297.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        24,
+                        52,
+                        33,
+                        68
+                    ],
+                    "type": "page_number",
+                    "angle": 90,
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                52,
+                                33,
+                                68
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        52,
+                                        33,
+                                        68
+                                    ],
+                                    "type": "text",
+                                    "content": "628"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "page_size": [
+                764,
+                516
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        52,
+                        67,
+                        687,
+                        387
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                648,
+                                55,
+                                669,
+                                67
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        648,
+                                        55,
+                                        669,
+                                        67
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                648,
+                                                55,
+                                                669,
+                                                67
+                                            ],
+                                            "type": "text",
+                                            "content": "续表"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                67,
+                                687,
+                                387
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        67,
+                                        687,
+                                        387
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                67,
+                                                687,
+                                                387
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"3\">年龄/ 阶段</td><td colspan=\"7\">男性</td><td colspan=\"6\">女性</td></tr><tr><td colspan=\"2\">PAL |a</td><td colspan=\"2\">PAL ||b</td><td colspan=\"2\">PAL ||c</td><td colspan=\"2\">PAL |a</td><td colspan=\"2\">PAL ||b</td><td colspan=\"2\">PAL ||c</td><td></td></tr><tr><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td></td></tr><tr><td>11岁~</td><td>7.95</td><td>1900</td><td>9.20</td><td>2200</td><td>10.25</td><td>2450</td><td>7.32</td><td>1750</td><td>8.37</td><td>2000</td><td>9.41</td><td>2250</td><td></td></tr><tr><td>12岁~</td><td>9.62</td><td>2300</td><td>10.88</td><td>2600</td><td>12.13</td><td>2900</td><td>8.16</td><td>1950</td><td>9.20</td><td>2200</td><td>10.25</td><td>2450</td><td></td></tr><tr><td>15岁~</td><td>10.88</td><td>2600</td><td>12.34</td><td>2950</td><td>13.81</td><td>3300</td><td>8.79</td><td>2100</td><td>9.83</td><td>2350</td><td>11.09</td><td>2650</td><td></td></tr><tr><td>18岁~</td><td>9.00</td><td>2150</td><td>10.67</td><td>2550</td><td>12.55</td><td>3000</td><td>7.11</td><td>1700</td><td>8.79</td><td>2100</td><td>10.25</td><td>2450</td><td></td></tr><tr><td>30岁~</td><td>8.58</td><td>2050</td><td>10.46</td><td>2500</td><td>12.34</td><td>2950</td><td>7.11</td><td>1700</td><td>8.58</td><td>2050</td><td>10.04</td><td>2400</td><td></td></tr><tr><td>50岁~</td><td>8.16</td><td>1950</td><td>10.04</td><td>2400</td><td>11.72</td><td>2800</td><td>6.69</td><td>1600</td><td>8.16</td><td>1950</td><td>9.62</td><td>2300</td><td></td></tr><tr><td>65岁~</td><td>7.95</td><td>1900</td><td>9.62</td><td>2300</td><td>-</td><td>-</td><td>6.49</td><td>1550</td><td>7.74</td><td>1850</td><td>-</td><td>-</td><td></td></tr><tr><td>75岁~</td><td>7.53</td><td>1800</td><td>9.20</td><td>2200</td><td>-</td><td>-</td><td>6.28</td><td>1500</td><td>7.32</td><td>1750</td><td>-</td><td>-</td><td></td></tr><tr><td>孕早期</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td><td></td></tr><tr><td>孕中期</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1.05</td><td>+250</td><td>+1.05</td><td>+250</td><td>+1.05</td><td>+250</td><td></td></tr><tr><td>孕晚期</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1.67</td><td>+400</td><td>+1.67</td><td>+400</td><td>+1.67</td><td>+400</td><td></td></tr><tr><td>乳母</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1.67</td><td>+400</td><td>+1.67</td><td>+400</td><td>+1.67</td><td>+400</td><td></td></tr></table>",
+                                            "image_path": "a1db11ea86e7cc89b240aeb52eaefd0113665e796fe340befb3e11b8fe5e11fd.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                68,
+                                388,
+                                486,
+                                400
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        388,
+                                        486,
+                                        400
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                68,
+                                                388,
+                                                486,
+                                                400
+                                            ],
+                                            "type": "text",
+                                            "content": "注：PAL I a、PAL II b 和 PAL III c 分别代表低强度身体活动水平、中等强度身体活动水平和高强度身体活动水平。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        },
+                        {
+                            "bbox": [
+                                82,
+                                403,
+                                435,
+                                414
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        403,
+                                        435,
+                                        414
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                403,
+                                                435,
+                                                414
+                                            ],
+                                            "type": "text",
+                                            "content": "“一”表示未制定或未涉及；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        723,
+                        190,
+                        736,
+                        470
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                723,
+                                190,
+                                736,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        723,
+                                        190,
+                                        736,
+                                        470
+                                    ],
+                                    "type": "text",
+                                    "content": "附第三《中国居民膳食营养素参考摄入量（2023版）》分米总表 629"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "page_size": [
+                766,
+                520
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        52,
+                        94,
+                        463,
+                        697
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                189,
+                                78,
+                                326,
+                                91
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        189,
+                                        78,
+                                        326,
+                                        91
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                189,
+                                                78,
+                                                326,
+                                                91
+                                            ],
+                                            "type": "text",
+                                            "content": "附表 3-2 膳食蛋白质参考摄入量"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                94,
+                                463,
+                                697
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        94,
+                                        463,
+                                        697
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                94,
+                                                463,
+                                                697
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">年龄/阶段</td><td colspan=\"2\">EAR/(g·d⁻¹)</td><td colspan=\"2\">RNI/(g·d⁻¹)</td><td rowspan=\"2\">AMDR/%E</td></tr><tr><td>男性</td><td>女性</td><td>男性</td><td>女性</td></tr><tr><td>0岁~</td><td></td><td></td><td>9(AI)</td><td>9(AI)</td><td></td></tr><tr><td>0.5岁~</td><td></td><td></td><td>17(AI)</td><td>17(AI)</td><td></td></tr><tr><td>1岁~</td><td>20</td><td>20</td><td>25</td><td>25</td><td></td></tr><tr><td>2岁~</td><td>20</td><td>20</td><td>25</td><td>25</td><td></td></tr><tr><td>3岁~</td><td>25</td><td>25</td><td>30</td><td>30</td><td></td></tr><tr><td>4岁~</td><td>25</td><td>25</td><td>30</td><td>30</td><td>8~20</td></tr><tr><td>5岁~</td><td>25</td><td>25</td><td>30</td><td>30</td><td>8~20</td></tr><tr><td>6岁~</td><td>30</td><td>30</td><td>35</td><td>35</td><td>10~20</td></tr><tr><td>7岁~</td><td>30</td><td>30</td><td>40</td><td>40</td><td>10~20</td></tr><tr><td>8岁~</td><td>35</td><td>35</td><td>40</td><td>40</td><td>10~20</td></tr><tr><td>9岁~</td><td>40</td><td>40</td><td>45</td><td>45</td><td>10~20</td></tr><tr><td>10岁~</td><td>40</td><td>40</td><td>50</td><td>50</td><td>10~20</td></tr><tr><td>11岁~</td><td>45</td><td>45</td><td>55</td><td>55</td><td>10~20</td></tr><tr><td>12岁~</td><td>55</td><td>50</td><td>70</td><td>60</td><td>10~20</td></tr><tr><td>15岁~</td><td>60</td><td>50</td><td>75</td><td>60</td><td>10~20</td></tr><tr><td>18岁~</td><td>60</td><td>50</td><td>65</td><td>55</td><td>10~20</td></tr><tr><td>30岁~</td><td>60</td><td>50</td><td>65</td><td>55</td><td>10~20</td></tr><tr><td>50岁~</td><td>60</td><td>50</td><td>65</td><td>55</td><td>10~20</td></tr><tr><td>65岁~</td><td>60</td><td>50</td><td>72</td><td>62</td><td>15~20</td></tr><tr><td>75岁~</td><td>60</td><td>50</td><td>72</td><td>62</td><td>15~20</td></tr><tr><td>孕早期</td><td></td><td>+0</td><td></td><td>+0</td><td>10~20</td></tr><tr><td>孕中期</td><td></td><td>+10</td><td></td><td>+15</td><td>10~20</td></tr><tr><td>孕晚期</td><td></td><td>+25</td><td></td><td>+30</td><td>10~20</td></tr><tr><td>乳母</td><td></td><td>+20</td><td></td><td>+25</td><td>10~20</td></tr></table>",
+                                            "image_path": "fc269be89b82b4619c41fe3648df3246de0a1e821a48e043ffeb315e6d0e973a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                699,
+                                417,
+                                711
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        699,
+                                        417,
+                                        711
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                699,
+                                                417,
+                                                711
+                                            ],
+                                            "type": "text",
+                                            "content": "注：“—”表示未制定或未涉及；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        52,
+                        32,
+                        68,
+                        42
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                32,
+                                68,
+                                42
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        32,
+                                        68,
+                                        42
+                                    ],
+                                    "type": "text",
+                                    "content": "630"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        73,
+                        31,
+                        112,
+                        43
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                31,
+                                112,
+                                43
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        31,
+                                        112,
+                                        43
+                                    ],
+                                    "type": "text",
+                                    "content": "附录"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                517,
+                765
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        54,
+                        90,
+                        470,
+                        683
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                179,
+                                75,
+                                343,
+                                88
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        179,
+                                        75,
+                                        343,
+                                        88
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                179,
+                                                75,
+                                                343,
+                                                88
+                                            ],
+                                            "type": "text",
+                                            "content": "附表 3-3 膳食脂肪及脂肪酸参考摄入量"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                90,
+                                470,
+                                683
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        90,
+                                        470,
+                                        683
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                90,
+                                                470,
+                                                683
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">年龄/阶段</td><td>总脂肪</td><td>饱和脂 肪酸</td><td>n-6 多 不饱和 脂肪酸</td><td>n-3 多 不饱和 脂肪酸</td><td>亚油酸</td><td>亚麻酸</td><td>EPA+DHA</td></tr><tr><td>AMDR/%E</td><td>AMDR/%E</td><td>AMDR/%E</td><td>AMDR/%E</td><td>AI/%E</td><td>AI/%E</td><td>AMDR/AI/(g·d-1)</td></tr><tr><td>0 岁~</td><td>48 (AI)</td><td>-</td><td>-</td><td>-</td><td>\\( 8.0(0.15\\mathrm {g}^{\\mathrm {a}}) \\)</td><td>0.90</td><td>\\( 0.1^b \\)</td></tr><tr><td>0.5 岁~</td><td>40 (AI)</td><td>-</td><td>-</td><td>-</td><td>6.0</td><td>0.67</td><td>\\( 0.1^b \\)</td></tr><tr><td>1 岁~</td><td>35 (AI)</td><td>-</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>\\( 0.1^b \\)</td></tr><tr><td>3 岁~</td><td>35 (AI)</td><td>-</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.2</td></tr><tr><td>4 岁~</td><td>20~30</td><td>&lt;8</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.2</td></tr><tr><td>6 岁~</td><td>20~30</td><td>&lt;8</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.2</td></tr><tr><td>7 岁~</td><td>20~30</td><td>&lt;8</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.2</td></tr><tr><td>9 岁~</td><td>20~30</td><td>&lt;8</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.2</td></tr><tr><td>11 岁~</td><td>20~30</td><td>&lt;8</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.2</td></tr><tr><td>12 岁~</td><td>20~30</td><td>&lt;8</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.25</td></tr><tr><td>15 岁~</td><td>20~30</td><td>&lt;8</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.25</td></tr><tr><td>18 岁~</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>4.0</td><td>0.60</td><td>0.25~2.00 (AMDR)</td></tr><tr><td>30 岁~</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>4.0</td><td>0.60</td><td>0.25~2.00 (AMDR)</td></tr><tr><td>50 岁~</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>4.0</td><td>0.60</td><td>0.25~2.00 (AMDR)</td></tr><tr><td>65 岁~</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>4.0</td><td>0.60</td><td>0.25~2.00 (AMDR)</td></tr><tr><td>75 岁~</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>4.0</td><td>0.60</td><td>0.25~2.00 (AMDR)</td></tr><tr><td>孕早期</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>+0</td><td>+0</td><td>\\( 0.25(0.2^b) \\)</td></tr><tr><td>孕中期</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>+0</td><td>+0</td><td>\\( 0.25(0.2^b) \\)</td></tr><tr><td>孕晚期</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>+0</td><td>+0</td><td>\\( 0.25(0.2^b) \\)</td></tr><tr><td>乳母</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>+0</td><td>+0</td><td>\\( 0.25(0.2^b) \\)</td></tr></table>",
+                                            "image_path": "fbb80962f951e71e0af258b6ab9d78c489cd013e0470819eaaa955f5b2bb3935.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                71,
+                                684,
+                                164,
+                                695
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        684,
+                                        164,
+                                        695
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                71,
+                                                684,
+                                                164,
+                                                695
+                                            ],
+                                            "type": "text",
+                                            "content": "注：a花生四烯酸；bDHA。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        },
+                        {
+                            "bbox": [
+                                84,
+                                697,
+                                392,
+                                709
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        697,
+                                        392,
+                                        709
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                84,
+                                                697,
+                                                392,
+                                                709
+                                            ],
+                                            "type": "text",
+                                            "content": "“一”表示未制定；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        189,
+                        28,
+                        447,
+                        40
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                189,
+                                28,
+                                447,
+                                40
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        189,
+                                        28,
+                                        447,
+                                        40
+                                    ],
+                                    "type": "text",
+                                    "content": "附录三 《中国居民膳食营养素参考摄入量（2023版）》分类总表"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        454,
+                        28,
+                        468,
+                        38
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                454,
+                                28,
+                                468,
+                                38
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        454,
+                                        28,
+                                        468,
+                                        38
+                                    ],
+                                    "type": "text",
+                                    "content": "631"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                521,
+                763
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        52,
+                        92,
+                        463,
+                        550
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                180,
+                                77,
+                                334,
+                                89
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        180,
+                                        77,
+                                        334,
+                                        89
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                180,
+                                                77,
+                                                334,
+                                                89
+                                            ],
+                                            "type": "text",
+                                            "content": "附表 3-4 膳食碳水化合物参考摄入量"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                92,
+                                463,
+                                550
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        92,
+                                        463,
+                                        550
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                92,
+                                                463,
+                                                550
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">年龄/阶段</td><td colspan=\"2\">总碳水化合物</td><td>膳食纤维</td><td>添加糖</td></tr><tr><td>EAR/(g·d⁻¹)</td><td>AMDR/%E</td><td>AI/(g·d⁻¹)</td><td>AMDR/%E</td></tr><tr><td>0岁~</td><td>60(AI)</td><td></td><td></td><td></td></tr><tr><td>0.5岁~</td><td>80(AI)</td><td></td><td></td><td></td></tr><tr><td>1岁~</td><td>120</td><td>50~65</td><td>5~10</td><td></td></tr><tr><td>4岁~</td><td>120</td><td>50~65</td><td>10~15</td><td>&lt;10</td></tr><tr><td>7岁~</td><td>120</td><td>50~65</td><td>15~20</td><td>&lt;10</td></tr><tr><td>9岁~</td><td>120</td><td>50~65</td><td>15~20</td><td>&lt;10</td></tr><tr><td>12岁~</td><td>150</td><td>50~65</td><td>20~25</td><td>&lt;10</td></tr><tr><td>15岁~</td><td>150</td><td>50~65</td><td>25~30</td><td>&lt;10</td></tr><tr><td>18岁~</td><td>120</td><td>50~65</td><td>25~30</td><td>&lt;10</td></tr><tr><td>30岁~</td><td>120</td><td>50~65</td><td>25~30</td><td>&lt;10</td></tr><tr><td>50岁~</td><td>120</td><td>50~65</td><td>25~30</td><td>&lt;10</td></tr><tr><td>65岁~</td><td>120</td><td>50~65</td><td>25~30</td><td>&lt;10</td></tr><tr><td>75岁~</td><td>120</td><td>50~65</td><td>25~30</td><td>&lt;10</td></tr><tr><td>孕早期</td><td>+10</td><td>50~65</td><td>+0</td><td>&lt;10</td></tr><tr><td>孕中期</td><td>+20</td><td>50~65</td><td>+4</td><td>&lt;10</td></tr><tr><td>孕晚期</td><td>+35</td><td>50~65</td><td>+4</td><td>&lt;10</td></tr><tr><td>乳母</td><td>+50</td><td>50~65</td><td>+4</td><td>&lt;10</td></tr></table>",
+                                            "image_path": "544b659320ab57afb6e2c7321e17ee8d2b93200bf0a60c1c9001e8a2b7be23c2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                550,
+                                237,
+                                563
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        550,
+                                        237,
+                                        563
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                66,
+                                                550,
+                                                237,
+                                                563
+                                            ],
+                                            "type": "text",
+                                            "content": "注：a添加糖每天不超过50g/d，最好低于25g/d。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        },
+                        {
+                            "bbox": [
+                                79,
+                                565,
+                                383,
+                                577
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        565,
+                                        383,
+                                        577
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                79,
+                                                565,
+                                                383,
+                                                577
+                                            ],
+                                            "type": "text",
+                                            "content": "“一”表示未制定；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        51,
+                        30,
+                        68,
+                        41
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                30,
+                                68,
+                                41
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        30,
+                                        68,
+                                        41
+                                    ],
+                                    "type": "text",
+                                    "content": "632"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        73,
+                        29,
+                        112,
+                        42
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                29,
+                                112,
+                                42
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        29,
+                                        112,
+                                        42
+                                    ],
+                                    "type": "text",
+                                    "content": "附录"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                516,
+                763
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        51,
+                        110,
+                        467,
+                        571
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                160,
+                                76,
+                                359,
+                                90
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        160,
+                                        76,
+                                        359,
+                                        90
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                160,
+                                                76,
+                                                359,
+                                                90
+                                            ],
+                                            "type": "text",
+                                            "content": "附表 3-5 膳食宏量营养素可接受范围 (AMDR)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                406,
+                                96,
+                                444,
+                                107
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        406,
+                                        96,
+                                        444,
+                                        107
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                406,
+                                                96,
+                                                444,
+                                                107
+                                            ],
+                                            "type": "text",
+                                            "content": "单位： "
+                                        },
+                                        {
+                                            "bbox": [
+                                                406,
+                                                96,
+                                                444,
+                                                107
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "\\% \\mathrm{E}"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                110,
+                                467,
+                                571
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        110,
+                                        467,
+                                        571
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                110,
+                                                467,
+                                                571
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>年龄/阶段</td><td>碳水化合物</td><td>总脂肪</td><td>蛋白质</td></tr><tr><td>0岁~</td><td></td><td>48(AI)</td><td></td></tr><tr><td>0.5岁~</td><td></td><td>40(AI)</td><td></td></tr><tr><td>1岁~</td><td>50~65</td><td>35(AI)</td><td></td></tr><tr><td>4岁~</td><td>50~65</td><td>20~30</td><td>8~20</td></tr><tr><td>6岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>7岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>11岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>12岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>15岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>18岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>30岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>50岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>65岁~</td><td>50~65</td><td>20~30</td><td>15~20</td></tr><tr><td>75岁~</td><td>50~65</td><td>20~30</td><td>15~20</td></tr><tr><td>孕早期</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>孕中期</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>孕晚期</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>乳母</td><td>50~65</td><td>20~30</td><td>10~20</td></tr></table>",
+                                            "image_path": "f3c7d1bc9c0753b6e8acaa9eee16561ef0642e01cafcdeca3a1013818cd858e1.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                572,
+                                148,
+                                584
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        572,
+                                        148,
+                                        584
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                67,
+                                                572,
+                                                148,
+                                                584
+                                            ],
+                                            "type": "text",
+                                            "content": "注：“—”表示未制定。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        186,
+                        29,
+                        443,
+                        42
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                29,
+                                443,
+                                42
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        29,
+                                        443,
+                                        42
+                                    ],
+                                    "type": "text",
+                                    "content": "附录三 《中国居民膳食营养素参考摄入量（2023版）》分类总表"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        450,
+                        32,
+                        465,
+                        41
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                450,
+                                32,
+                                465,
+                                41
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        450,
+                                        32,
+                                        465,
+                                        41
+                                    ],
+                                    "type": "text",
+                                    "content": "633"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                519,
+                765
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        51,
+                        69,
+                        684,
+                        439
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                270,
+                                54,
+                                463,
+                                67
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        270,
+                                        54,
+                                        463,
+                                        67
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                270,
+                                                54,
+                                                463,
+                                                67
+                                            ],
+                                            "type": "text",
+                                            "content": "附表 3-6 膳食微量营养素平均需要量 (EAR)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                69,
+                                684,
+                                439
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        69,
+                                        684,
+                                        439
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                69,
+                                                684,
+                                                439
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">年龄/阶段</td><td rowspan=\"2\">钙/(mg·d-1)</td><td rowspan=\"2\">磷/(mg·d-1)</td><td rowspan=\"2\">镁/(mg/d)</td><td>铁/(mg·d-1)</td><td>碘/(μg·d-1)</td><td>锌/(mg·d-1)</td><td>硒/(mg·d-1)</td><td>铜/(mg·d-1)</td><td>钼/(μg·d-1)</td><td>维生素A/(μgRAE·d-1)</td><td>维生素D/(μg·d-1)</td><td>维生素B1/(mg·d-1)</td><td>维生素B2/(mg·d-1)</td><td>烟酸/(mg NE·d-1)</td><td>维生素B6/(mg·d-1)</td><td>叶酸/(μg DFE·d-1)</td><td>维生素B12/(μg·d-1)</td><td>维生素C/(mg·d-1)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0岁~</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0.5岁~</td><td>-</td><td>-</td><td>-</td><td>7</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1岁~</td><td>400</td><td>250</td><td>110</td><td>7</td><td>65</td><td>3.2</td><td>20</td><td>0.26</td><td>8</td><td>250</td><td>240</td><td>8</td><td>0.5</td><td>0.6</td><td>0.5</td><td>5</td><td>4</td><td>0.5</td><td>130</td><td>0.8</td><td>35</td><td></td><td></td><td></td></tr><tr><td>4岁~</td><td>500</td><td>290</td><td>130</td><td>7</td><td>65</td><td>4.6</td><td>25</td><td>0.30</td><td>10</td><td>280</td><td>270</td><td>8</td><td>0.7</td><td>0.7</td><td>0.6</td><td>6</td><td>5</td><td>0.6</td><td>160</td><td>1.0</td><td>40</td><td></td><td></td><td></td></tr><tr><td>7岁~</td><td>650</td><td>370</td><td>170</td><td>9</td><td>65</td><td>5.9</td><td>30</td><td>0.38</td><td>12</td><td>300</td><td>280</td><td>8</td><td>0.8</td><td>0.7</td><td>0.8</td><td>7</td><td>6</td><td>0.7</td><td>200</td><td>1.2</td><td>50</td><td></td><td></td><td></td></tr><tr><td>9岁~</td><td>800</td><td>460</td><td>210</td><td>12</td><td>65</td><td>5.9</td><td>40</td><td>0.47</td><td>15</td><td>400</td><td>380</td><td>8</td><td>0.9</td><td>0.8</td><td>0.9</td><td>0.8</td><td>9</td><td>8</td><td>0.8</td><td>240</td><td>1.5</td><td>65</td><td></td><td></td></tr><tr><td>12岁~</td><td>850</td><td>580</td><td>260</td><td>12</td><td>14</td><td>80</td><td>7.0</td><td>6.3</td><td>50</td><td>0.56</td><td>20</td><td>560</td><td>520</td><td>8</td><td>1.2</td><td>1.0</td><td>1.2</td><td>1.0</td><td>11</td><td>10</td><td>1.1</td><td>310</td><td>1.7</td><td>80</td></tr><tr><td>15岁~</td><td>800</td><td>600</td><td>270</td><td>12</td><td>14</td><td>85</td><td>9.7</td><td>6.5</td><td>50</td><td>0.59</td><td>20</td><td>580</td><td>480</td><td>8</td><td>1.4</td><td>1.1</td><td>1.3</td><td>1.0</td><td>13</td><td>10</td><td>1.2</td><td>320</td><td>2.1</td><td>85</td></tr><tr><td>18岁~</td><td>650</td><td>600</td><td>270</td><td>9</td><td>12</td><td>85</td><td>10.1</td><td>6.9</td><td>50</td><td>0.62</td><td>20</td><td>550</td><td>470</td><td>8</td><td>1.2</td><td>1.0</td><td>1.2</td><td>1.0</td><td>12</td><td>10</td><td>1.2</td><td>320</td><td>2.0</td><td>85</td></tr><tr><td>30岁~</td><td>650</td><td>590</td><td>270</td><td>9</td><td>12</td><td>85</td><td>10.1</td><td>6.9</td><td>50</td><td>0.60</td><td>20</td><td>550</td><td>470</td><td>8</td><td>1.2</td><td>1.0</td><td>1.2</td><td>1.0</td><td>12</td><td>10</td><td>1.2</td><td>320</td><td>2.0</td><td>85</td></tr><tr><td>50岁~</td><td>650</td><td>590</td><td>270</td><td>9</td><td>8a</td><td>85</td><td>10.1</td><td>6.9</td><td>50</td><td>0.60</td><td>20</td><td>540</td><td>470</td><td>8</td><td>1.2</td><td>1.0</td><td>1.2</td><td>1.0</td><td>12</td><td>10</td><td>1.3</td><td>320</td><td>2.0</td><td>85</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>12b</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>65岁~</td><td>650</td><td>570</td><td>260</td><td>9</td><td>8</td><td>85</td><td>10.1</td><td>6.9</td><td>50</td><td>0.58</td><td>20</td><td>520</td><td>460</td><td>8</td><td>1.2</td><td>1.0</td><td>1.2</td><td>1.0</td><td>12</td><td>10</td><td>1.3</td><td>320</td><td>2.0</td><td>85</td></tr><tr><td>75岁~</td><td>650</td><td>570</td><td>250</td><td>9</td><td>8</td><td>85</td><td>10.1</td><td>6.9</td><td>50</td><td>0.57</td><td>20</td><td>500</td><td>430</td><td>8</td><td>1.2</td><td>1.0</td><td>1.2</td><td>1.0</td><td>12</td><td>10</td><td>1.3</td><td>320</td><td>2.0</td><td>85</td></tr><tr><td>孕早期</td><td>+0</td><td>+0</td><td>+30</td><td>-</td><td>+0</td><td>+75</td><td>-</td><td>+1.7</td><td>+4</td><td>+0.10</td><td>+0</td><td>-</td><td>+0</td><td>+0</td><td>-</td><td>+0</td><td>-</td><td>+0</td><td>-</td><td>+0.7</td><td>+200</td><td>+0.4</td><td>+0</td><td></td></tr><tr><td>孕中期</td><td>+0</td><td>+0</td><td>+30</td><td>-</td><td>+7</td><td>+75</td><td>-</td><td>+1.7</td><td>+4</td><td>+0.10</td><td>+0</td><td>-</td><td>+50</td><td>+0</td><td>-</td><td>+0.1</td><td>-</td><td>+0.1</td><td>-</td><td>+0</td><td>+0.7</td><td>+200</td><td>+0.4</td><td>+10</td></tr><tr><td>孕晚期</td><td>+0</td><td>+0</td><td>+30</td><td>-</td><td>+10</td><td>+75</td><td>-</td><td>+1.7</td><td>+4</td><td>+0.10</td><td>+0</td><td>-</td><td>+50</td><td>+0</td><td>-</td><td>+0.2</td><td>-</td><td>+0.2</td><td>-</td><td>+0</td><td>+0.7</td><td>+200</td><td>+0.4</td><td>+10</td></tr><tr><td>乳母</td><td>+0</td><td>+0</td><td>+0</td><td>-</td><td>+6</td><td>+85</td><td>-</td><td>+4.1</td><td>+15</td><td>+0.50</td><td>+4</td><td>-</td><td>+400</td><td>+0</td><td>-</td><td>+0.2</td><td>-</td><td>+0.4</td><td>-</td><td>+3</td><td>+0.2</td><td>+130</td><td>+0.6</td><td>+40</td></tr></table>",
+                                            "image_path": "6fe1aa76c5c12f0f71e9e167e0c868a66f7c84c0338f16bd7e7ce1853099ff86.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                439,
+                                152,
+                                450
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        439,
+                                        152,
+                                        450
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                65,
+                                                439,
+                                                152,
+                                                450
+                                            ],
+                                            "type": "text",
+                                            "content": "注：a无月经；b有月经。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        },
+                        {
+                            "bbox": [
+                                79,
+                                453,
+                                431,
+                                465
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        453,
+                                        431,
+                                        465
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                79,
+                                                453,
+                                                431,
+                                                465
+                                            ],
+                                            "type": "text",
+                                            "content": "“一”表示未制定或未涉及；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        716,
+                        53,
+                        729,
+                        114
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                716,
+                                53,
+                                729,
+                                114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        716,
+                                        53,
+                                        729,
+                                        114
+                                    ],
+                                    "type": "text",
+                                    "content": "634"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "page_size": [
+                763,
+                516
+            ],
+            "page_idx": 6
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        51,
+                        69,
+                        684,
+                        400
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                240,
+                                53,
+                                492,
+                                66
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        240,
+                                        53,
+                                        492,
+                                        66
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                240,
+                                                53,
+                                                492,
+                                                66
+                                            ],
+                                            "type": "text",
+                                            "content": "附表 3-7 膳食矿物质推荐摄入量 (RNI) 或适宜摄入量 (AI)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                69,
+                                684,
+                                400
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        69,
+                                        684,
+                                        400
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                69,
+                                                684,
+                                                400
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"3\">年龄/阶段</td><td>钙/(mg·d-1)</td><td>磷/(mg·d-1)</td><td>钾/(mg·d-1)</td><td>钠/(mg·d-1)</td><td>镁/(mg·d-1)</td><td>氯/(mg·d-1)</td><td>铁/(mg·d-1)</td><td>碘/(μg·d-1)</td><td>锌/(mg·d-1)</td><td>硒/(μg·d-1)</td><td>铜/(mg·d-1)</td><td>氟/(mg·d-1)</td><td>铬/(μg·d-1)</td><td>锰/(mg·d-1)</td><td>钼/(μg·d-1)</td><td></td><td></td></tr><tr><td rowspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">AI</td><td rowspan=\"2\">AI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">AI</td><td>RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">AI</td><td>AI</td><td>AI</td><td rowspan=\"2\">AI</td><td rowspan=\"2\">RNI</td><td></td></tr><tr><td>男女</td><td>男女</td><td>男女</td><td></td></tr><tr><td>0岁~</td><td>200(AI)</td><td>105(AI)</td><td>400</td><td>80</td><td>20(AI)</td><td>120</td><td>0.3(AI)</td><td>85(AI)</td><td>1.5(AI)</td><td>15(AI)</td><td>0.3(AI)</td><td>0.01</td><td>0.2</td><td>0.01</td><td>3(AI)</td><td></td><td></td></tr><tr><td>0.5岁~</td><td>350(AI)</td><td>180(AI)</td><td>600</td><td>180</td><td>65(AI)</td><td>450</td><td>10</td><td>115(AI)</td><td>3.2(AI)</td><td>20(AI)</td><td>0.3(AI)</td><td>0.23</td><td>5</td><td>0.7</td><td>6(AI)</td><td></td><td></td></tr><tr><td>1岁~</td><td>500</td><td>300</td><td>900</td><td>500~700a</td><td>140</td><td>800~1 100b</td><td>10</td><td>90</td><td>4.0</td><td>25</td><td>0.3</td><td>0.6</td><td>15</td><td>2.0</td><td>1.5</td><td>10</td><td></td></tr><tr><td>4岁~</td><td>600</td><td>350</td><td>1 100</td><td>800</td><td>160</td><td>1 200</td><td>10</td><td>90</td><td>5.5</td><td>30</td><td>0.4</td><td>0.7</td><td>15</td><td>2.0</td><td>2.0</td><td>12</td><td></td></tr><tr><td>7岁~</td><td>800</td><td>440</td><td>1 300</td><td>900</td><td>200</td><td>1 400</td><td>12</td><td>90</td><td>7.0</td><td>40</td><td>0.5</td><td>0.9</td><td>20</td><td>2.5</td><td>2.5</td><td>15</td><td></td></tr><tr><td>9岁~</td><td>1 000</td><td>550</td><td>1 600</td><td>1 100</td><td>250</td><td>1 700</td><td>16</td><td>90</td><td>7.0</td><td>45</td><td>0.6</td><td>1.1</td><td>25</td><td>3.5</td><td>3.0</td><td>20</td><td></td></tr><tr><td>12岁~</td><td>1 000</td><td>700</td><td>1 800</td><td>1 400</td><td>320</td><td>2 200</td><td>16</td><td>18</td><td>110</td><td>8.5</td><td>7.5</td><td>60</td><td>0.7</td><td>1.4</td><td>33</td><td>30</td><td>4.5</td></tr><tr><td>15岁~</td><td>1 000</td><td>720</td><td>2 000</td><td>1 600</td><td>330</td><td>2 500</td><td>16</td><td>18</td><td>120</td><td>11.5</td><td>8.0</td><td>60</td><td>0.8</td><td>1.5</td><td>35</td><td>30</td><td>5.0</td></tr><tr><td>18岁~</td><td>800</td><td>720</td><td>2 000</td><td>1 500</td><td>330</td><td>2 300</td><td>12</td><td>18</td><td>120</td><td>12.0</td><td>8.5</td><td>60</td><td>0.8</td><td>1.5</td><td>35</td><td>30</td><td>4.5</td></tr><tr><td>30岁~</td><td>800</td><td>710</td><td>2 000</td><td>1 500</td><td>320</td><td>2 300</td><td>12</td><td>18</td><td>120</td><td>12.0</td><td>8.5</td><td>60</td><td>0.8</td><td>1.5</td><td>35</td><td>30</td><td>4.5</td></tr><tr><td>50岁~</td><td>800</td><td>710</td><td>2 000</td><td>1 500</td><td>320</td><td>2 300</td><td>12</td><td>10e</td><td>120</td><td>12.0</td><td>8.5</td><td>60</td><td>0.8</td><td>1.5</td><td>30</td><td>25</td><td>4.5</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>18d</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>65岁~</td><td>800</td><td>680</td><td>2 000</td><td>1 400</td><td>310</td><td>2 200</td><td>12</td><td>10</td><td>120</td><td>12.0</td><td>8.5</td><td>60</td><td>0.8</td><td>1.5</td><td>30</td><td>25</td><td>4.5</td></tr><tr><td>75岁~</td><td>800</td><td>680</td><td>2 000</td><td>1 400</td><td>300</td><td>2 200</td><td>12</td><td>10</td><td>120</td><td>12.0</td><td>8.5</td><td>60</td><td>0.7</td><td>1.5</td><td>30</td><td>25</td><td>4.5</td></tr><tr><td>孕早期</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td><td>+40</td><td>+0</td><td>-</td><td>+0</td><td>+110</td><td>-</td><td>+2.0</td><td>+5</td><td>+0.1</td><td>+0</td><td>-</td><td>+0</td><td>+0</td></tr><tr><td>孕中期</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td><td>+40</td><td>+0</td><td>-</td><td>+7</td><td>+110</td><td>-</td><td>+2.0</td><td>+5</td><td>+0.1</td><td>+0</td><td>-</td><td>+3</td><td>+0</td></tr><tr><td>孕晚期</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td><td>+40</td><td>+0</td><td>-</td><td>+11</td><td>+110</td><td>-</td><td>+2.0</td><td>+5</td><td>+0.1</td><td>+0</td><td>-</td><td>+5</td><td>+0</td></tr><tr><td>乳母</td><td>+0</td><td>+0</td><td>+400</td><td>+0</td><td>+0</td><td>+0</td><td>-</td><td>+6</td><td>+120</td><td>-</td><td>+4.5</td><td>+18</td><td>+0.7</td><td>+0</td><td>-</td><td>+5</td><td>+0.2</td></tr></table>",
+                                            "image_path": "4350665f36cf09664d73cd307fed375fda0d5f6b3772ba6ef70aa7e4ee52c435.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                401,
+                                288,
+                                412
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        401,
+                                        288,
+                                        412
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                401,
+                                                288,
+                                                412
+                                            ],
+                                            "type": "text",
+                                            "content": "注： "
+                                        },
+                                        {
+                                            "bbox": [
+                                                64,
+                                                401,
+                                                288,
+                                                412
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "{}^{a}1"
+                                        },
+                                        {
+                                            "bbox": [
+                                                64,
+                                                401,
+                                                288,
+                                                412
+                                            ],
+                                            "type": "text",
+                                            "content": " 岁~为 "
+                                        },
+                                        {
+                                            "bbox": [
+                                                64,
+                                                401,
+                                                288,
+                                                412
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "{500}\\mathrm{{mg}}/\\mathrm{d},2"
+                                        },
+                                        {
+                                            "bbox": [
+                                                64,
+                                                401,
+                                                288,
+                                                412
+                                            ],
+                                            "type": "text",
+                                            "content": " 岁~为 "
+                                        },
+                                        {
+                                            "bbox": [
+                                                64,
+                                                401,
+                                                288,
+                                                412
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "{600}\\mathrm{{mg}}/\\mathrm{d},3"
+                                        },
+                                        {
+                                            "bbox": [
+                                                64,
+                                                401,
+                                                288,
+                                                412
+                                            ],
+                                            "type": "text",
+                                            "content": " 岁~为 "
+                                        },
+                                        {
+                                            "bbox": [
+                                                64,
+                                                401,
+                                                288,
+                                                412
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "{700}\\mathrm{{mg}}/\\mathrm{d}"
+                                        },
+                                        {
+                                            "bbox": [
+                                                64,
+                                                401,
+                                                288,
+                                                412
+                                            ],
+                                            "type": "text",
+                                            "content": " 。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                414,
+                                293,
+                                426
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        414,
+                                        293,
+                                        426
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                78,
+                                                414,
+                                                293,
+                                                426
+                                            ],
+                                            "type": "text",
+                                            "content": "1岁~为 "
+                                        },
+                                        {
+                                            "bbox": [
+                                                78,
+                                                414,
+                                                293,
+                                                426
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "800\\mathrm{mg / d},2"
+                                        },
+                                        {
+                                            "bbox": [
+                                                78,
+                                                414,
+                                                293,
+                                                426
+                                            ],
+                                            "type": "text",
+                                            "content": " 岁~为 "
+                                        },
+                                        {
+                                            "bbox": [
+                                                78,
+                                                414,
+                                                293,
+                                                426
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "900\\mathrm{mg / d},3"
+                                        },
+                                        {
+                                            "bbox": [
+                                                78,
+                                                414,
+                                                293,
+                                                426
+                                            ],
+                                            "type": "text",
+                                            "content": " 岁~为 "
+                                        },
+                                        {
+                                            "bbox": [
+                                                78,
+                                                414,
+                                                293,
+                                                426
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "1100\\mathrm{mg / d}"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                429,
+                                115,
+                                440
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        429,
+                                        115,
+                                        440
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                78,
+                                                429,
+                                                115,
+                                                440
+                                            ],
+                                            "type": "text",
+                                            "content": "无月经。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                443,
+                                115,
+                                454
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        443,
+                                        115,
+                                        454
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                78,
+                                                443,
+                                                115,
+                                                454
+                                            ],
+                                            "type": "text",
+                                            "content": "有月经。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                456,
+                                395,
+                                468
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        456,
+                                        395,
+                                        468
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                78,
+                                                456,
+                                                395,
+                                                468
+                                            ],
+                                            "type": "text",
+                                            "content": "“一”表示未涉及；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        717,
+                        188,
+                        733,
+                        468
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                717,
+                                188,
+                                733,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        717,
+                                        188,
+                                        733,
+                                        468
+                                    ],
+                                    "type": "text",
+                                    "content": "华三《中国医药城药品参考量（2023版）分米表635"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "page_size": [
+                762,
+                520
+            ],
+            "page_idx": 7
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        50,
+                        67,
+                        683,
+                        452
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                240,
+                                53,
+                                490,
+                                65
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        240,
+                                        53,
+                                        490,
+                                        65
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                240,
+                                                53,
+                                                490,
+                                                65
+                                            ],
+                                            "type": "text",
+                                            "content": "附表 3-8 膳食维生素推荐摄入量 (RNI) 或适宜摄入量 (AI)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                67,
+                                683,
+                                452
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        67,
+                                        683,
+                                        452
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                67,
+                                                683,
+                                                452
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"3\">年龄/阶段</td><td colspan=\"2\">维生素A/(μgRAE·d-1)</td><td colspan=\"2\">维生素D/(μg·d-1)</td><td>维生素E/(mg α-TE·d-1)</td><td>维生素K/(μg·d-1)</td><td>维生素B1/(mg·d-1)</td><td>维生素B2/(mg·d-1)</td><td>烟酸/(mg NE·d-1)</td><td>维生素B6/(mg·d-1)</td><td>叶酸/(μg DFE·d-1)</td><td>维生素B12/(μg·d-1)</td><td>泛酸/(mg·d-1)</td><td>生物素/(μg·d-1)</td><td>胆碱/(mg·d-1)</td><td>维生素C/(mg·d-1)</td><td></td></tr><tr><td colspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">AI</td><td rowspan=\"2\">AI</td><td colspan=\"2\">RNI</td><td>RNI</td><td colspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">AI</td><td rowspan=\"2\">AI</td><td>AI</td><td rowspan=\"2\">RNI</td></tr><tr><td colspan=\"2\">男女</td><td colspan=\"2\">男女</td><td>男女</td><td colspan=\"2\">男女</td><td>男女</td></tr><tr><td>0岁~</td><td colspan=\"2\">300(AI)</td><td>10(AI)</td><td>3</td><td>2</td><td colspan=\"2\">0.1(AI)</td><td>0.4(AI)</td><td colspan=\"2\">1(AI)</td><td>0.1(AI)</td><td>65(AI)</td><td>0.3(AI)</td><td>1.7</td><td>5</td><td>120</td><td>40(AI)</td></tr><tr><td>0.5岁~</td><td colspan=\"2\">350(AI)</td><td>10(AI)</td><td>4</td><td>10</td><td colspan=\"2\">0.3(AI)</td><td>0.6(AI)</td><td colspan=\"2\">2(AI)</td><td>0.3(AI)</td><td>100(AI)</td><td>0.6(AI)</td><td>1.9</td><td>10</td><td>140</td><td>40(AI)</td></tr><tr><td>1岁~</td><td>340</td><td>330</td><td>10</td><td>6</td><td>30</td><td colspan=\"2\">0.6</td><td>0.7</td><td>0.6</td><td>6</td><td>5</td><td>0.6</td><td>160</td><td>1.0</td><td>2.1</td><td>17</td><td>40</td></tr><tr><td>4岁~</td><td>390</td><td>380</td><td>10</td><td>7</td><td>40</td><td colspan=\"2\">0.9</td><td>0.9</td><td>0.8</td><td>7</td><td>6</td><td>0.7</td><td>190</td><td>1.2</td><td>2.5</td><td>20</td><td>50</td></tr><tr><td>7岁~</td><td>430</td><td>390</td><td>10</td><td>9</td><td>50</td><td>1.0</td><td>0.9</td><td>1.0</td><td>0.9</td><td>9</td><td>8</td><td>0.8</td><td>240</td><td>1.4</td><td>3.1</td><td>25</td><td>60</td></tr><tr><td>9岁~</td><td>560</td><td>540</td><td>10</td><td>11</td><td>60</td><td>1.1</td><td>1.0</td><td>1.1</td><td>1.0</td><td>10</td><td>10</td><td>1.0</td><td>290</td><td>1.8</td><td>3.8</td><td>30</td><td>75</td></tr><tr><td>12岁~</td><td>780</td><td>730</td><td>10</td><td>13</td><td>70</td><td>1.4</td><td>1.2</td><td>1.4</td><td>1.2</td><td>13</td><td>12</td><td>1.3</td><td>370</td><td>2.0</td><td>4.9</td><td>35</td><td>95</td></tr><tr><td>15岁~</td><td>810</td><td>670</td><td>10</td><td>14</td><td>75</td><td>1.6</td><td>1.3</td><td>1.6</td><td>1.2</td><td>15</td><td>12</td><td>1.4</td><td>400</td><td>2.5</td><td>5.0</td><td>40</td><td>100</td></tr><tr><td>18岁~</td><td>770</td><td>660</td><td>10</td><td>14</td><td>80</td><td>1.4</td><td>1.2</td><td>1.4</td><td>1.2</td><td>15</td><td>12</td><td>1.4</td><td>400</td><td>2.4</td><td>5.0</td><td>40</td><td>100</td></tr><tr><td>30岁~</td><td>770</td><td>660</td><td>10</td><td>14</td><td>80</td><td>1.4</td><td>1.2</td><td>1.4</td><td>1.2</td><td>15</td><td>12</td><td>1.4</td><td>400</td><td>2.4</td><td>5.0</td><td>40</td><td>100</td></tr><tr><td>50岁~</td><td>750</td><td>660</td><td>10</td><td>14</td><td>80</td><td>1.4</td><td>1.2</td><td>1.4</td><td>1.2</td><td>15</td><td>12</td><td>1.6</td><td>400</td><td>2.4</td><td>5.0</td><td>40</td><td>100</td></tr><tr><td>65岁~</td><td>730</td><td>640</td><td>15</td><td>14</td><td>80</td><td>1.4</td><td>1.2</td><td>1.4</td><td>1.2</td><td>15</td><td>12</td><td>1.6</td><td>400</td><td>2.4</td><td>5.0</td><td>40</td><td>100</td></tr><tr><td>75岁~</td><td>710</td><td>600</td><td>15</td><td>14</td><td>80</td><td>1.4</td><td>1.2</td><td>1.4</td><td>1.2</td><td>15</td><td>12</td><td>1.6</td><td>400</td><td>2.4</td><td>5.0</td><td>40</td><td>100</td></tr><tr><td>孕早期</td><td>-</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td><td>-</td><td>+0</td><td>-</td><td>+0</td><td>-</td><td>+0</td><td>+0.8</td><td>+200</td><td>+0.5</td><td>+1.0</td><td>+10</td><td>+80</td></tr><tr><td>孕中期</td><td>-</td><td>+70</td><td>+0</td><td>+0</td><td>+0</td><td>-</td><td>+0.2</td><td>-</td><td>+0.1</td><td>-</td><td>+0</td><td>+0.8</td><td>+200</td><td>+0.5</td><td>+1.0</td><td>+10</td><td>+80</td></tr><tr><td>孕晚期</td><td>-</td><td>+70</td><td>+0</td><td>+0</td><td>+0</td><td>-</td><td>+0.3</td><td>-</td><td>+0.2</td><td>-</td><td>+0</td><td>+0.8</td><td>+200</td><td>+0.5</td><td>+1.0</td><td>+10</td><td>+80</td></tr><tr><td>乳母</td><td>-</td><td>+600</td><td>+0</td><td>+3</td><td>+5</td><td>-</td><td>+0.3</td><td>-</td><td>+0.5</td><td>-</td><td>+4</td><td>+0.3</td><td>+150</td><td>+0.8</td><td>+2.0</td><td>+10</td><td>+120</td></tr></table>",
+                                            "image_path": "7be0e00b635654438ba3163d01790d636057e94c79cd85c71e2eae16c5ab0ab1.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                452,
+                                395,
+                                463
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        452,
+                                        395,
+                                        463
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                452,
+                                                395,
+                                                463
+                                            ],
+                                            "type": "text",
+                                            "content": "注：“一”表示未涉及；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        716,
+                        52,
+                        729,
+                        114
+                    ],
+                    "type": "aside_text",
+                    "angle": 90,
+                    "lines": [
+                        {
+                            "bbox": [
+                                716,
+                                52,
+                                729,
+                                114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        716,
+                                        52,
+                                        729,
+                                        114
+                                    ],
+                                    "type": "text",
+                                    "content": "636附录"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "page_size": [
+                761,
+                516
+            ],
+            "page_idx": 8
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        53,
+                        109,
+                        468,
+                        545
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                101,
+                                75,
+                                422,
+                                89
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        75,
+                                        422,
+                                        89
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                101,
+                                                75,
+                                                422,
+                                                89
+                                            ],
+                                            "type": "text",
+                                            "content": "附表 3-9 膳食营养素降低膳食相关非传染性疾病风险的建议摄入量 (PI-NCD)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                403,
+                                93,
+                                447,
+                                106
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        403,
+                                        93,
+                                        447,
+                                        106
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                403,
+                                                93,
+                                                447,
+                                                106
+                                            ],
+                                            "type": "text",
+                                            "content": "单位：mg/d"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                109,
+                                468,
+                                545
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        109,
+                                        468,
+                                        545
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                53,
+                                                109,
+                                                468,
+                                                545
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>年龄/阶段</td><td>钾</td><td>钠</td><td>维生素C</td></tr><tr><td>0岁~</td><td></td><td></td><td></td></tr><tr><td>0.5岁~</td><td></td><td></td><td></td></tr><tr><td>1岁~</td><td></td><td></td><td></td></tr><tr><td>4岁~</td><td>1800</td><td>≤1 000</td><td></td></tr><tr><td>7岁~</td><td>2 200</td><td>≤1 200</td><td></td></tr><tr><td>9岁~</td><td>2 800</td><td>≤1 500</td><td></td></tr><tr><td>12岁~</td><td>3 200</td><td>≤1 900</td><td></td></tr><tr><td>15岁~</td><td>3 600</td><td>≤2 100</td><td></td></tr><tr><td>18岁~</td><td>3 600</td><td>≤2 000</td><td>200</td></tr><tr><td>30岁~</td><td>3 600</td><td>≤2 000</td><td>200</td></tr><tr><td>50岁~</td><td>3 600</td><td>≤2 000</td><td>200</td></tr><tr><td>65岁~</td><td>3 600</td><td>≤1 900</td><td>200</td></tr><tr><td>75岁~</td><td>3 600</td><td>≤1 800</td><td>200</td></tr><tr><td>孕早期</td><td>+0</td><td>+0</td><td>+0</td></tr><tr><td>孕中期</td><td>+0</td><td>+0</td><td>+0</td></tr><tr><td>孕晚期</td><td>+0</td><td>+0</td><td>+0</td></tr><tr><td>乳母</td><td>+0</td><td>+0</td><td>+0</td></tr></table>",
+                                            "image_path": "7bb0985023f0b43c4e12fad3a2ecaba4868dd92e06933eb700632ca35a9efc20.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                70,
+                                546,
+                                263,
+                                558
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        546,
+                                        263,
+                                        558
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                546,
+                                                263,
+                                                558
+                                            ],
+                                            "type": "text",
+                                            "content": "注：孕期、哺乳期女性的 PI-NCD 与同年龄女性相同。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        },
+                        {
+                            "bbox": [
+                                83,
+                                560,
+                                391,
+                                572
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        560,
+                                        391,
+                                        572
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                83,
+                                                560,
+                                                391,
+                                                572
+                                            ],
+                                            "type": "text",
+                                            "content": "“一”表示未制定；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        188,
+                        28,
+                        447,
+                        40
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                188,
+                                28,
+                                447,
+                                40
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        188,
+                                        28,
+                                        447,
+                                        40
+                                    ],
+                                    "type": "text",
+                                    "content": "附录三 《中国居民膳食营养素参考摄入量(2023版)》分类总表"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        452,
+                        28,
+                        468,
+                        39
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                452,
+                                28,
+                                468,
+                                39
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        452,
+                                        28,
+                                        468,
+                                        39
+                                    ],
+                                    "type": "text",
+                                    "content": "637"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                519,
+                763
+            ],
+            "page_idx": 9
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        50,
+                        66,
+                        682,
+                        450
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                256,
+                                51,
+                                475,
+                                63
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        256,
+                                        51,
+                                        475,
+                                        63
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                256,
+                                                51,
+                                                475,
+                                                63
+                                            ],
+                                            "type": "text",
+                                            "content": "附表 3-10 膳食微量营养素可耐受最高摄入量(UL)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                66,
+                                682,
+                                450
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        66,
+                                        682,
+                                        450
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                66,
+                                                682,
+                                                450
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>年龄/阶段</td><td>钙/(mg·d-1)</td><td>磷/(mg·d-1)</td><td>铁/(mg·d-1)</td><td>碘/(mg·d-1)</td><td>锌/(mg·d-1)</td><td>硒/(mg·d-1)</td><td>铜/(mg·d-1)</td><td>氟/(mg·d-1)</td><td>锰/(mg·d-1)</td><td>钼/(μg·d-1)</td><td>维生素A/(μg·d-1)</td><td>维生素D/(μg·d-1)</td><td>维生素E/(mg·d-1)</td><td>烟酸/(mg·NE·d-1)</td><td>烟酰胺/(mg·d-1)</td><td>维生素B6/(mg·d-1)</td><td>叶酸/(μg·d-1)</td><td>胆碱/(mg·d-1)</td><td>维生素C/(mg·d-1)</td></tr><tr><td>0岁~</td><td>1000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>55</td><td>-</td><td>-</td><td>-</td><td>-</td><td>600</td><td>20</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>0.5岁~</td><td>1500</td><td>-</td><td>-</td><td>-</td><td>-</td><td>80</td><td>-</td><td>-</td><td>-</td><td>-</td><td>600</td><td>20</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1岁~</td><td>1500</td><td>-</td><td>25</td><td>-</td><td>9</td><td>80</td><td>2.0</td><td>0.8</td><td>-</td><td>200</td><td>700</td><td>20</td><td>150</td><td>11</td><td>100</td><td>20</td><td>300</td><td>1000</td><td>400</td></tr><tr><td>4岁~</td><td>2000</td><td>-</td><td>30</td><td>200</td><td>13</td><td>120</td><td>3.0</td><td>1.1</td><td>3.5</td><td>300</td><td>1000</td><td>30</td><td>200</td><td>15</td><td>130</td><td>25</td><td>400</td><td>1000</td><td>600</td></tr><tr><td>7岁~</td><td>2000</td><td>-</td><td>35</td><td>250</td><td>21</td><td>150</td><td>3.0</td><td>1.5</td><td>5.0</td><td>400</td><td>1300</td><td>45</td><td>300</td><td>19</td><td>160</td><td>32</td><td>500</td><td>2000</td><td>800</td></tr><tr><td>9岁~</td><td>2000</td><td>-</td><td>35</td><td>250</td><td>24</td><td>200</td><td>5.0</td><td>2.0</td><td>6.5</td><td>500</td><td>1800</td><td>45</td><td>400</td><td>23</td><td>200</td><td>40</td><td>650</td><td>2000</td><td>1100</td></tr><tr><td>12岁~</td><td>2000</td><td>-</td><td>40</td><td>300</td><td>32</td><td>300</td><td>6.0</td><td>2.4</td><td>9.0</td><td>700</td><td>2400</td><td>50</td><td>500</td><td>30</td><td>260</td><td>50</td><td>800</td><td>2000</td><td>1600</td></tr><tr><td>15岁~</td><td>2000</td><td>-</td><td>40</td><td>500</td><td>37</td><td>350</td><td>7.0</td><td>3.5</td><td>10</td><td>800</td><td>2800</td><td>50</td><td>600</td><td>33</td><td>290</td><td>55</td><td>900</td><td>2500</td><td>1800</td></tr><tr><td>18岁~</td><td>2000</td><td>3500</td><td>42</td><td>600</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>310</td><td>60</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>30岁~</td><td>2000</td><td>3500</td><td>42</td><td>600</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>310</td><td>60</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>50岁~</td><td>2000</td><td>3500</td><td>42</td><td>600</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>310</td><td>55</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>65岁~</td><td>2000</td><td>3000</td><td>42</td><td>600</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>300</td><td>55</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>75岁~</td><td>2000</td><td>3000</td><td>42</td><td>600</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>290</td><td>55</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>孕早期</td><td>2000</td><td>3500</td><td>42</td><td>500</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>310</td><td>60</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>孕中期</td><td>2000</td><td>3500</td><td>42</td><td>500</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>310</td><td>60</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>孕晚期</td><td>2000</td><td>3500</td><td>42</td><td>500</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>310</td><td>60</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>乳母</td><td>2000</td><td>3500</td><td>42</td><td>500</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>310</td><td>60</td><td>1000</td><td>3000</td><td>2000</td></tr></table>",
+                                            "image_path": "de79a6d8e7b88de8bffb130dd8a6dc7ca48de3695c19745c3ec244bd29cb6828.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                450,
+                                148,
+                                461
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        450,
+                                        148,
+                                        461
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                65,
+                                                450,
+                                                148,
+                                                461
+                                            ],
+                                            "type": "text",
+                                            "content": "注：“—”表示未制定。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        717,
+                        52,
+                        730,
+                        114
+                    ],
+                    "type": "aside_text",
+                    "angle": 90,
+                    "lines": [
+                        {
+                            "bbox": [
+                                717,
+                                52,
+                                730,
+                                114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        717,
+                                        52,
+                                        730,
+                                        114
+                                    ],
+                                    "type": "text",
+                                    "content": "638 附录"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "page_size": [
+                760,
+                516
+            ],
+            "page_idx": 10
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        54,
+                        108,
+                        467,
+                        329
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                200,
+                                74,
+                                321,
+                                87
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        74,
+                                        321,
+                                        87
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                200,
+                                                74,
+                                                321,
+                                                87
+                                            ],
+                                            "type": "text",
+                                            "content": "附表 3-11 水的适宜摄入量 "
+                                        },
+                                        {
+                                            "bbox": [
+                                                200,
+                                                74,
+                                                321,
+                                                87
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "{}^{\\mathrm{a}}"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                402,
+                                92,
+                                448,
+                                103
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        402,
+                                        92,
+                                        448,
+                                        103
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                402,
+                                                92,
+                                                448,
+                                                103
+                                            ],
+                                            "type": "text",
+                                            "content": "单位： "
+                                        },
+                                        {
+                                            "bbox": [
+                                                402,
+                                                92,
+                                                448,
+                                                103
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "\\mathrm{mL / d}"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                108,
+                                467,
+                                329
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        108,
+                                        467,
+                                        329
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                108,
+                                                467,
+                                                329
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">年龄/阶段</td><td colspan=\"2\">饮水量</td><td colspan=\"2\">总摄入量b</td></tr><tr><td>男性</td><td>女性</td><td>男性</td><td>女性</td></tr><tr><td>0岁~</td><td>-</td><td></td><td>700°</td><td></td></tr><tr><td>0.5岁~</td><td>-</td><td></td><td>900</td><td></td></tr><tr><td>1岁~</td><td>-</td><td></td><td>1300</td><td></td></tr><tr><td>4岁~</td><td>800</td><td></td><td>1600</td><td></td></tr><tr><td>7岁~</td><td>1000</td><td></td><td>1800</td><td></td></tr><tr><td>12岁~</td><td>1300</td><td>1100</td><td>2300</td><td>2000</td></tr><tr><td>15岁~</td><td>1400</td><td>1200</td><td>2500</td><td>2200</td></tr><tr><td>18岁~</td><td>1700</td><td>1500</td><td>3000</td><td>2700</td></tr><tr><td>65岁~</td><td>1700</td><td>1500</td><td>3000</td><td>2700</td></tr><tr><td>孕早期</td><td>-</td><td>+0</td><td>-</td><td>+0</td></tr><tr><td>孕中期</td><td>-</td><td>+200</td><td>-</td><td>+300</td></tr><tr><td>孕晚期</td><td>-</td><td>+200</td><td>-</td><td>+300</td></tr><tr><td>乳母</td><td>-</td><td>+600</td><td>-</td><td>+1100</td></tr></table>",
+                                            "image_path": "984bf3f16eb21ce83de23225f5583442d0a5e898e96f7fcceb0eced0d0ed62dd.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                330,
+                                469,
+                                356
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        330,
+                                        469,
+                                        356
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                53,
+                                                330,
+                                                469,
+                                                356
+                                            ],
+                                            "type": "text",
+                                            "content": "注：a温和气候条件下，低强度身体活动水平时的摄入量。在不同温湿度和/或不同强度身体活动水平时，应进行相应调整。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        },
+                        {
+                            "bbox": [
+                                68,
+                                359,
+                                192,
+                                370
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        359,
+                                        192,
+                                        370
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                68,
+                                                359,
+                                                192,
+                                                370
+                                            ],
+                                            "type": "text",
+                                            "content": "b包括食物中的水和饮水中的水。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        },
+                        {
+                            "bbox": [
+                                68,
+                                373,
+                                208,
+                                385
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        373,
+                                        208,
+                                        385
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                68,
+                                                373,
+                                                208,
+                                                385
+                                            ],
+                                            "type": "text",
+                                            "content": "纯母乳喂养婴儿无需额外补充水分。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        },
+                        {
+                            "bbox": [
+                                68,
+                                388,
+                                377,
+                                400
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        388,
+                                        377,
+                                        400
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                68,
+                                                388,
+                                                377,
+                                                400
+                                            ],
+                                            "type": "text",
+                                            "content": "“一”表示未涉及；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        54,
+                        430,
+                        468,
+                        683
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                102,
+                                414,
+                                419,
+                                427
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        414,
+                                        419,
+                                        427
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                102,
+                                                414,
+                                                419,
+                                                427
+                                            ],
+                                            "type": "text",
+                                            "content": "附表 3-12 其他膳食成分成年人特定建议值(SPL)和可耐受最高摄入量(UL)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                430,
+                                468,
+                                683
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        430,
+                                        468,
+                                        683
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                430,
+                                                468,
+                                                683
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>其他膳食成分</td><td>SPL</td><td>UL</td></tr><tr><td>原花青素/(mg·d-1)</td><td>200</td><td>-</td></tr><tr><td>花色苷/(mg·d-1)</td><td>50</td><td>-</td></tr><tr><td>大豆异黄酮/(mg·d-1)</td><td>55a</td><td>120c</td></tr><tr><td></td><td>75b</td><td></td></tr><tr><td>绿原酸/(mg·d-1)</td><td>200</td><td>-</td></tr><tr><td>番茄红素/(mg·d-1)</td><td>15</td><td>70</td></tr><tr><td>叶黄素/(mg·d-1)</td><td>10</td><td>60</td></tr><tr><td>植物甾醇/(g·d-1)</td><td>0.8</td><td>2.4</td></tr><tr><td>植物甾醇酯/(g·d-1)</td><td>1.3</td><td>3.9</td></tr><tr><td>异硫氰酸酯/(mg·d-1)</td><td>30</td><td>-</td></tr><tr><td>辅酶Q10/(mg·d-1)</td><td>100</td><td>-</td></tr><tr><td>甜菜碱/(g·d-1)</td><td>1.5</td><td>4.0</td></tr><tr><td>菊粉或低聚果糖/(g·d-1)</td><td>10</td><td>-</td></tr><tr><td>β-葡聚糖(谷物来源)/(g·d-1)</td><td>3.0</td><td>-</td></tr><tr><td>硫酸/盐酸氨基葡萄糖/(mg·d-1)</td><td>1500</td><td>-</td></tr><tr><td>氨基葡萄糖/(mg·d-1)</td><td>1000</td><td>-</td></tr></table>",
+                                            "image_path": "7196c83233d07d9396dfe88741e53c09f8ae527c218be4fafaab7beb8d7cbfa0.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                684,
+                                357,
+                                696
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        684,
+                                        357,
+                                        696
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                69,
+                                                684,
+                                                357,
+                                                696
+                                            ],
+                                            "type": "text",
+                                            "content": "注：a绝经前女性的SPL；b围绝经期和绝经后女性的SPL；c绝经后女性的SPL。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        },
+                        {
+                            "bbox": [
+                                82,
+                                698,
+                                151,
+                                709
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        698,
+                                        151,
+                                        709
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                698,
+                                                151,
+                                                709
+                                            ],
+                                            "type": "text",
+                                            "content": "“一”表示未制定。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        188,
+                        26,
+                        446,
+                        38
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                188,
+                                26,
+                                446,
+                                38
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        188,
+                                        26,
+                                        446,
+                                        38
+                                    ],
+                                    "type": "text",
+                                    "content": "附录三 《中国居民膳食营养素参考摄入量（2023版)》分类总表"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        453,
+                        27,
+                        468,
+                        37
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                453,
+                                27,
+                                468,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        453,
+                                        27,
+                                        468,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "639"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                522,
+                764
+            ],
+            "page_idx": 11
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.7.6"
+}

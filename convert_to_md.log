@@ -19937,3 +19937,13 @@
 2026-03-04 02:36:46.702 | INFO     | __main__:_process_output:231 - local output dir is /Users/wwj/Desktop/self/download_gb/output/GB 31604.58-2023食品安全国家标准 食品接触材料及制品 9种抗氧化剂迁移量的测定/vlm
 2026-03-04 02:36:46.702 | INFO     | __main__:do_parse:127 - Done [1758/1758] GB 31604.58-2023食品安全国家标准 食品接触材料及制品 9种抗氧化剂迁移量的测定
 2026-03-04 02:36:46.703 | INFO     | __main__:parse_doc:293 - parse_doc finished: all 1758 files done
+2026-03-27 18:26:44.635 | INFO     | convert_to_md:_ensure_log_file:26 - Log file: /Users/wwj/Desktop/self/download_gb/convert_to_md.log
+2026-03-27 18:26:44.635 | INFO     | convert_to_md:parse_doc:271 - parse_doc started: output_dir=output, backend=vlm-http-client, total files=1
+2026-03-27 18:26:44.645 | INFO     | convert_to_md:do_parse:112 - Processing [1/1] 1722442615236
+2026-03-27 18:26:44.674 | INFO     | mineru.backend.vlm.vlm_analyze:get_model:218 - get http-client predictor cost: 0.03s
+2026-03-27 18:26:44.675 | DEBUG    | mineru.utils.pdf_image_tools:load_images_from_pdf:116 - PDF to images using 4 processes, page ranges: [(0, 2), (3, 5), (6, 8), (9, 11)]
+2026-03-27 18:26:45.502 | DEBUG    | mineru.backend.vlm.vlm_analyze:doc_analyze:238 - load images cost: 0.83, speed: 14.458 images/s
+2026-03-27 18:27:02.282 | DEBUG    | mineru.backend.vlm.vlm_analyze:doc_analyze:243 - infer finished, cost: 16.78, speed: 0.715 page/s
+2026-03-27 18:27:02.567 | INFO     | convert_to_md:_process_output:231 - local output dir is output/1722442615236/vlm
+2026-03-27 18:27:02.567 | INFO     | convert_to_md:do_parse:127 - Done [1/1] 1722442615236
+2026-03-27 18:27:02.567 | INFO     | convert_to_md:parse_doc:293 - parse_doc finished: all 1 files done

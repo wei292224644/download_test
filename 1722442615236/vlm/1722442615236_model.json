@@ -1,0 +1,906 @@
+[
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.032,
+                0.102,
+                0.044,
+                0.132
+            ],
+            "angle": 90,
+            "content": "628"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.074,
+                0.169,
+                0.611,
+                0.205
+            ],
+            "angle": 0,
+            "content": "附录三 《中国居民膳食营养素参考摄入量（2023版）》分类总表"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.381,
+                0.287,
+                0.572,
+                0.311
+            ],
+            "angle": 0,
+            "content": "附表 3-1 膳食能量需要量 (EER)"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.064,
+                0.316,
+                0.891,
+                0.896
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"3\">年龄/ 阶段</td><td colspan=\"6\">男性</td><td colspan=\"5\">女性</td><td></td></tr><tr><td colspan=\"2\">PAL 1°</td><td colspan=\"2\">PAL 1b</td><td colspan=\"2\">PAL 1c</td><td colspan=\"2\">PAL 1a</td><td colspan=\"2\">PAL 1b</td><td>PAL 1c</td><td></td></tr><tr><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td></tr><tr><td>0岁~</td><td>-</td><td>0.38MJ/(kg·d)</td><td>90kcal/(kg·d)</td><td>-</td><td>-</td><td>-</td><td>0.38MJ/(kg·d)</td><td>90kcal/(kg·d)</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>0.5岁~</td><td>-</td><td>0.31MJ/(kg·d)</td><td>75kcal/(kg·d)</td><td>-</td><td>-</td><td>-</td><td>0.31MJ/(kg·d)</td><td>75kcal/(kg·d)</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>1岁~</td><td>-</td><td>3.77</td><td>900</td><td>-</td><td>-</td><td>-</td><td>3.35</td><td>800</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>2岁~</td><td>-</td><td>4.60</td><td>1100</td><td>-</td><td>-</td><td>-</td><td>4.18</td><td>1000</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>3岁~</td><td>-</td><td>5.23</td><td>1250</td><td>-</td><td>-</td><td>-</td><td>4.81</td><td>1150</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>4岁~</td><td>-</td><td>5.44</td><td>1300</td><td>-</td><td>-</td><td>-</td><td>5.23</td><td>1250</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>5岁~</td><td>-</td><td>5.86</td><td>1400</td><td>-</td><td>-</td><td>-</td><td>5.44</td><td>1300</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>6岁~</td><td>5.86</td><td>1400</td><td>6.69</td><td>1600</td><td>7.53</td><td>1800</td><td>5.44</td><td>1300</td><td>6.07</td><td>1450</td><td>6.90</td><td>1650</td></tr><tr><td>7岁~</td><td>6.28</td><td>1500</td><td>7.11</td><td>1700</td><td>7.95</td><td>1900</td><td>5.65</td><td>1350</td><td>6.49</td><td>1550</td><td>7.32</td><td>1750</td></tr><tr><td>8岁~</td><td>6.69</td><td>1600</td><td>7.74</td><td>1850</td><td>8.79</td><td>2100</td><td>6.07</td><td>1450</td><td>7.11</td><td>1700</td><td>7.95</td><td>1900</td></tr><tr><td>9岁~</td><td>7.11</td><td>1700</td><td>8.16</td><td>1950</td><td>9.20</td><td>2200</td><td>6.49</td><td>1550</td><td>7.53</td><td>1800</td><td>8.37</td><td>2000</td></tr><tr><td>10岁~</td><td>7.53</td><td>1800</td><td>8.58</td><td>2050</td><td>9.62</td><td>2300</td><td>6.90</td><td>1650</td><td>7.95</td><td>1900</td><td>8.79</td><td>2100</td></tr></table>"
+        }
+    ],
+    [
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.846,
+                0.107,
+                0.874,
+                0.129
+            ],
+            "angle": 0,
+            "content": "续表"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.069,
+                0.13,
+                0.898,
+                0.746
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"3\">年龄/ 阶段</td><td colspan=\"7\">男性</td><td colspan=\"6\">女性</td></tr><tr><td colspan=\"2\">PAL |a</td><td colspan=\"2\">PAL ||b</td><td colspan=\"2\">PAL ||c</td><td colspan=\"2\">PAL |a</td><td colspan=\"2\">PAL ||b</td><td colspan=\"2\">PAL ||c</td><td></td></tr><tr><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td>MJ/d</td><td>kcal/d</td><td></td></tr><tr><td>11岁~</td><td>7.95</td><td>1900</td><td>9.20</td><td>2200</td><td>10.25</td><td>2450</td><td>7.32</td><td>1750</td><td>8.37</td><td>2000</td><td>9.41</td><td>2250</td><td></td></tr><tr><td>12岁~</td><td>9.62</td><td>2300</td><td>10.88</td><td>2600</td><td>12.13</td><td>2900</td><td>8.16</td><td>1950</td><td>9.20</td><td>2200</td><td>10.25</td><td>2450</td><td></td></tr><tr><td>15岁~</td><td>10.88</td><td>2600</td><td>12.34</td><td>2950</td><td>13.81</td><td>3300</td><td>8.79</td><td>2100</td><td>9.83</td><td>2350</td><td>11.09</td><td>2650</td><td></td></tr><tr><td>18岁~</td><td>9.00</td><td>2150</td><td>10.67</td><td>2550</td><td>12.55</td><td>3000</td><td>7.11</td><td>1700</td><td>8.79</td><td>2100</td><td>10.25</td><td>2450</td><td></td></tr><tr><td>30岁~</td><td>8.58</td><td>2050</td><td>10.46</td><td>2500</td><td>12.34</td><td>2950</td><td>7.11</td><td>1700</td><td>8.58</td><td>2050</td><td>10.04</td><td>2400</td><td></td></tr><tr><td>50岁~</td><td>8.16</td><td>1950</td><td>10.04</td><td>2400</td><td>11.72</td><td>2800</td><td>6.69</td><td>1600</td><td>8.16</td><td>1950</td><td>9.62</td><td>2300</td><td></td></tr><tr><td>65岁~</td><td>7.95</td><td>1900</td><td>9.62</td><td>2300</td><td>-</td><td>-</td><td>6.49</td><td>1550</td><td>7.74</td><td>1850</td><td>-</td><td>-</td><td></td></tr><tr><td>75岁~</td><td>7.53</td><td>1800</td><td>9.20</td><td>2200</td><td>-</td><td>-</td><td>6.28</td><td>1500</td><td>7.32</td><td>1750</td><td>-</td><td>-</td><td></td></tr><tr><td>孕早期</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td><td></td></tr><tr><td>孕中期</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1.05</td><td>+250</td><td>+1.05</td><td>+250</td><td>+1.05</td><td>+250</td><td></td></tr><tr><td>孕晚期</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1.67</td><td>+400</td><td>+1.67</td><td>+400</td><td>+1.67</td><td>+400</td><td></td></tr><tr><td>乳母</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1.67</td><td>+400</td><td>+1.67</td><td>+400</td><td>+1.67</td><td>+400</td><td></td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.089,
+                0.748,
+                0.635,
+                0.77
+            ],
+            "angle": 0,
+            "content": "注：PAL I a、PAL II b 和 PAL III c 分别代表低强度身体活动水平、中等强度身体活动水平和高强度身体活动水平。"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.108,
+                0.776,
+                0.569,
+                0.798
+            ],
+            "angle": 0,
+            "content": "“一”表示未制定或未涉及；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.089,
+                0.748,
+                0.635,
+                0.798
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.944,
+                0.367,
+                0.962,
+                0.904
+            ],
+            "angle": 0,
+            "content": "附第三《中国居民膳食营养素参考摄入量（2023版）》分米总表 629"
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.101,
+                0.042,
+                0.132,
+                0.055
+            ],
+            "angle": 0,
+            "content": "630"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.142,
+                0.041,
+                0.218,
+                0.057
+            ],
+            "angle": 0,
+            "content": "附录"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.367,
+                0.103,
+                0.632,
+                0.119
+            ],
+            "angle": 0,
+            "content": "附表 3-2 膳食蛋白质参考摄入量"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.101,
+                0.124,
+                0.896,
+                0.912
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">年龄/阶段</td><td colspan=\"2\">EAR/(g·d⁻¹)</td><td colspan=\"2\">RNI/(g·d⁻¹)</td><td rowspan=\"2\">AMDR/%E</td></tr><tr><td>男性</td><td>女性</td><td>男性</td><td>女性</td></tr><tr><td>0岁~</td><td></td><td></td><td>9(AI)</td><td>9(AI)</td><td></td></tr><tr><td>0.5岁~</td><td></td><td></td><td>17(AI)</td><td>17(AI)</td><td></td></tr><tr><td>1岁~</td><td>20</td><td>20</td><td>25</td><td>25</td><td></td></tr><tr><td>2岁~</td><td>20</td><td>20</td><td>25</td><td>25</td><td></td></tr><tr><td>3岁~</td><td>25</td><td>25</td><td>30</td><td>30</td><td></td></tr><tr><td>4岁~</td><td>25</td><td>25</td><td>30</td><td>30</td><td>8~20</td></tr><tr><td>5岁~</td><td>25</td><td>25</td><td>30</td><td>30</td><td>8~20</td></tr><tr><td>6岁~</td><td>30</td><td>30</td><td>35</td><td>35</td><td>10~20</td></tr><tr><td>7岁~</td><td>30</td><td>30</td><td>40</td><td>40</td><td>10~20</td></tr><tr><td>8岁~</td><td>35</td><td>35</td><td>40</td><td>40</td><td>10~20</td></tr><tr><td>9岁~</td><td>40</td><td>40</td><td>45</td><td>45</td><td>10~20</td></tr><tr><td>10岁~</td><td>40</td><td>40</td><td>50</td><td>50</td><td>10~20</td></tr><tr><td>11岁~</td><td>45</td><td>45</td><td>55</td><td>55</td><td>10~20</td></tr><tr><td>12岁~</td><td>55</td><td>50</td><td>70</td><td>60</td><td>10~20</td></tr><tr><td>15岁~</td><td>60</td><td>50</td><td>75</td><td>60</td><td>10~20</td></tr><tr><td>18岁~</td><td>60</td><td>50</td><td>65</td><td>55</td><td>10~20</td></tr><tr><td>30岁~</td><td>60</td><td>50</td><td>65</td><td>55</td><td>10~20</td></tr><tr><td>50岁~</td><td>60</td><td>50</td><td>65</td><td>55</td><td>10~20</td></tr><tr><td>65岁~</td><td>60</td><td>50</td><td>72</td><td>62</td><td>15~20</td></tr><tr><td>75岁~</td><td>60</td><td>50</td><td>72</td><td>62</td><td>15~20</td></tr><tr><td>孕早期</td><td></td><td>+0</td><td></td><td>+0</td><td>10~20</td></tr><tr><td>孕中期</td><td></td><td>+10</td><td></td><td>+15</td><td>10~20</td></tr><tr><td>孕晚期</td><td></td><td>+25</td><td></td><td>+30</td><td>10~20</td></tr><tr><td>乳母</td><td></td><td>+20</td><td></td><td>+25</td><td>10~20</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.125,
+                0.914,
+                0.807,
+                0.93
+            ],
+            "angle": 0,
+            "content": "注：“—”表示未制定或未涉及；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.364,
+                0.037,
+                0.858,
+                0.053
+            ],
+            "angle": 0,
+            "content": "附录三 《中国居民膳食营养素参考摄入量（2023版）》分类总表"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.872,
+                0.038,
+                0.9,
+                0.051
+            ],
+            "angle": 0,
+            "content": "631"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.344,
+                0.099,
+                0.66,
+                0.116
+            ],
+            "angle": 0,
+            "content": "附表 3-3 膳食脂肪及脂肪酸参考摄入量"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.105,
+                0.119,
+                0.903,
+                0.896
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">年龄/阶段</td><td>总脂肪</td><td>饱和脂 肪酸</td><td>n-6 多 不饱和 脂肪酸</td><td>n-3 多 不饱和 脂肪酸</td><td>亚油酸</td><td>亚麻酸</td><td>EPA+DHA</td></tr><tr><td>AMDR/%E</td><td>AMDR/%E</td><td>AMDR/%E</td><td>AMDR/%E</td><td>AI/%E</td><td>AI/%E</td><td>AMDR/AI/(g·d-1)</td></tr><tr><td>0 岁~</td><td>48 (AI)</td><td>-</td><td>-</td><td>-</td><td>\\( 8.0(0.15\\mathrm {g}^{\\mathrm {a}}) \\)</td><td>0.90</td><td>\\( 0.1^b \\)</td></tr><tr><td>0.5 岁~</td><td>40 (AI)</td><td>-</td><td>-</td><td>-</td><td>6.0</td><td>0.67</td><td>\\( 0.1^b \\)</td></tr><tr><td>1 岁~</td><td>35 (AI)</td><td>-</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>\\( 0.1^b \\)</td></tr><tr><td>3 岁~</td><td>35 (AI)</td><td>-</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.2</td></tr><tr><td>4 岁~</td><td>20~30</td><td>&lt;8</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.2</td></tr><tr><td>6 岁~</td><td>20~30</td><td>&lt;8</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.2</td></tr><tr><td>7 岁~</td><td>20~30</td><td>&lt;8</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.2</td></tr><tr><td>9 岁~</td><td>20~30</td><td>&lt;8</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.2</td></tr><tr><td>11 岁~</td><td>20~30</td><td>&lt;8</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.2</td></tr><tr><td>12 岁~</td><td>20~30</td><td>&lt;8</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.25</td></tr><tr><td>15 岁~</td><td>20~30</td><td>&lt;8</td><td>-</td><td>-</td><td>4.0</td><td>0.60</td><td>0.25</td></tr><tr><td>18 岁~</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>4.0</td><td>0.60</td><td>0.25~2.00 (AMDR)</td></tr><tr><td>30 岁~</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>4.0</td><td>0.60</td><td>0.25~2.00 (AMDR)</td></tr><tr><td>50 岁~</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>4.0</td><td>0.60</td><td>0.25~2.00 (AMDR)</td></tr><tr><td>65 岁~</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>4.0</td><td>0.60</td><td>0.25~2.00 (AMDR)</td></tr><tr><td>75 岁~</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>4.0</td><td>0.60</td><td>0.25~2.00 (AMDR)</td></tr><tr><td>孕早期</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>+0</td><td>+0</td><td>\\( 0.25(0.2^b) \\)</td></tr><tr><td>孕中期</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>+0</td><td>+0</td><td>\\( 0.25(0.2^b) \\)</td></tr><tr><td>孕晚期</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>+0</td><td>+0</td><td>\\( 0.25(0.2^b) \\)</td></tr><tr><td>乳母</td><td>20~30</td><td>&lt;10</td><td>2.5~9.0</td><td>0.5~2.0</td><td>+0</td><td>+0</td><td>\\( 0.25(0.2^b) \\)</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.137,
+                0.897,
+                0.316,
+                0.911
+            ],
+            "angle": 0,
+            "content": "注：a花生四烯酸；bDHA。"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.162,
+                0.914,
+                0.754,
+                0.93
+            ],
+            "angle": 0,
+            "content": "“一”表示未制定；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.137,
+                0.897,
+                0.754,
+                0.93
+            ],
+            "angle": 0,
+            "content": null
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.1,
+                0.04,
+                0.132,
+                0.054
+            ],
+            "angle": 0,
+            "content": "632"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.142,
+                0.039,
+                0.218,
+                0.056
+            ],
+            "angle": 0,
+            "content": "附录"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.35,
+                0.101,
+                0.649,
+                0.117
+            ],
+            "angle": 0,
+            "content": "附表 3-4 膳食碳水化合物参考摄入量"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.101,
+                0.121,
+                0.898,
+                0.721
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">年龄/阶段</td><td colspan=\"2\">总碳水化合物</td><td>膳食纤维</td><td>添加糖</td></tr><tr><td>EAR/(g·d⁻¹)</td><td>AMDR/%E</td><td>AI/(g·d⁻¹)</td><td>AMDR/%E</td></tr><tr><td>0岁~</td><td>60(AI)</td><td></td><td></td><td></td></tr><tr><td>0.5岁~</td><td>80(AI)</td><td></td><td></td><td></td></tr><tr><td>1岁~</td><td>120</td><td>50~65</td><td>5~10</td><td></td></tr><tr><td>4岁~</td><td>120</td><td>50~65</td><td>10~15</td><td>&lt;10</td></tr><tr><td>7岁~</td><td>120</td><td>50~65</td><td>15~20</td><td>&lt;10</td></tr><tr><td>9岁~</td><td>120</td><td>50~65</td><td>15~20</td><td>&lt;10</td></tr><tr><td>12岁~</td><td>150</td><td>50~65</td><td>20~25</td><td>&lt;10</td></tr><tr><td>15岁~</td><td>150</td><td>50~65</td><td>25~30</td><td>&lt;10</td></tr><tr><td>18岁~</td><td>120</td><td>50~65</td><td>25~30</td><td>&lt;10</td></tr><tr><td>30岁~</td><td>120</td><td>50~65</td><td>25~30</td><td>&lt;10</td></tr><tr><td>50岁~</td><td>120</td><td>50~65</td><td>25~30</td><td>&lt;10</td></tr><tr><td>65岁~</td><td>120</td><td>50~65</td><td>25~30</td><td>&lt;10</td></tr><tr><td>75岁~</td><td>120</td><td>50~65</td><td>25~30</td><td>&lt;10</td></tr><tr><td>孕早期</td><td>+10</td><td>50~65</td><td>+0</td><td>&lt;10</td></tr><tr><td>孕中期</td><td>+20</td><td>50~65</td><td>+4</td><td>&lt;10</td></tr><tr><td>孕晚期</td><td>+35</td><td>50~65</td><td>+4</td><td>&lt;10</td></tr><tr><td>乳母</td><td>+50</td><td>50~65</td><td>+4</td><td>&lt;10</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.128,
+                0.722,
+                0.461,
+                0.738
+            ],
+            "angle": 0,
+            "content": "注：a添加糖每天不超过50g/d，最好低于25g/d。"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.155,
+                0.741,
+                0.744,
+                0.757
+            ],
+            "angle": 0,
+            "content": "“一”表示未制定；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.128,
+                0.722,
+                0.744,
+                0.757
+            ],
+            "angle": 0,
+            "content": null
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.359,
+                0.038,
+                0.855,
+                0.055
+            ],
+            "angle": 0,
+            "content": "附录三 《中国居民膳食营养素参考摄入量（2023版）》分类总表"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.868,
+                0.042,
+                0.897,
+                0.054
+            ],
+            "angle": 0,
+            "content": "633"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.309,
+                0.1,
+                0.692,
+                0.118
+            ],
+            "angle": 0,
+            "content": "附表 3-5 膳食宏量营养素可接受范围 (AMDR)"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.783,
+                0.126,
+                0.856,
+                0.141
+            ],
+            "angle": 0,
+            "content": "单位： \\(\\% \\mathrm{E}\\)"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.099,
+                0.144,
+                0.901,
+                0.747
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>年龄/阶段</td><td>碳水化合物</td><td>总脂肪</td><td>蛋白质</td></tr><tr><td>0岁~</td><td></td><td>48(AI)</td><td></td></tr><tr><td>0.5岁~</td><td></td><td>40(AI)</td><td></td></tr><tr><td>1岁~</td><td>50~65</td><td>35(AI)</td><td></td></tr><tr><td>4岁~</td><td>50~65</td><td>20~30</td><td>8~20</td></tr><tr><td>6岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>7岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>11岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>12岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>15岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>18岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>30岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>50岁~</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>65岁~</td><td>50~65</td><td>20~30</td><td>15~20</td></tr><tr><td>75岁~</td><td>50~65</td><td>20~30</td><td>15~20</td></tr><tr><td>孕早期</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>孕中期</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>孕晚期</td><td>50~65</td><td>20~30</td><td>10~20</td></tr><tr><td>乳母</td><td>50~65</td><td>20~30</td><td>10~20</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.13,
+                0.749,
+                0.286,
+                0.764
+            ],
+            "angle": 0,
+            "content": "注：“—”表示未制定。"
+        }
+    ],
+    [
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.354,
+                0.106,
+                0.607,
+                0.13
+            ],
+            "angle": 0,
+            "content": "附表 3-6 膳食微量营养素平均需要量 (EAR)"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.067,
+                0.134,
+                0.897,
+                0.852
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">年龄/阶段</td><td rowspan=\"2\">钙/(mg·d-1)</td><td rowspan=\"2\">磷/(mg·d-1)</td><td rowspan=\"2\">镁/(mg/d)</td><td>铁/(mg·d-1)</td><td>碘/(μg·d-1)</td><td>锌/(mg·d-1)</td><td>硒/(mg·d-1)</td><td>铜/(mg·d-1)</td><td>钼/(μg·d-1)</td><td>维生素A/(μgRAE·d-1)</td><td>维生素D/(μg·d-1)</td><td>维生素B1/(mg·d-1)</td><td>维生素B2/(mg·d-1)</td><td>烟酸/(mg NE·d-1)</td><td>维生素B6/(mg·d-1)</td><td>叶酸/(μg DFE·d-1)</td><td>维生素B12/(μg·d-1)</td><td>维生素C/(mg·d-1)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td>男女</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0岁~</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0.5岁~</td><td>-</td><td>-</td><td>-</td><td>7</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1岁~</td><td>400</td><td>250</td><td>110</td><td>7</td><td>65</td><td>3.2</td><td>20</td><td>0.26</td><td>8</td><td>250</td><td>240</td><td>8</td><td>0.5</td><td>0.6</td><td>0.5</td><td>5</td><td>4</td><td>0.5</td><td>130</td><td>0.8</td><td>35</td><td></td><td></td><td></td></tr><tr><td>4岁~</td><td>500</td><td>290</td><td>130</td><td>7</td><td>65</td><td>4.6</td><td>25</td><td>0.30</td><td>10</td><td>280</td><td>270</td><td>8</td><td>0.7</td><td>0.7</td><td>0.6</td><td>6</td><td>5</td><td>0.6</td><td>160</td><td>1.0</td><td>40</td><td></td><td></td><td></td></tr><tr><td>7岁~</td><td>650</td><td>370</td><td>170</td><td>9</td><td>65</td><td>5.9</td><td>30</td><td>0.38</td><td>12</td><td>300</td><td>280</td><td>8</td><td>0.8</td><td>0.7</td><td>0.8</td><td>7</td><td>6</td><td>0.7</td><td>200</td><td>1.2</td><td>50</td><td></td><td></td><td></td></tr><tr><td>9岁~</td><td>800</td><td>460</td><td>210</td><td>12</td><td>65</td><td>5.9</td><td>40</td><td>0.47</td><td>15</td><td>400</td><td>380</td><td>8</td><td>0.9</td><td>0.8</td><td>0.9</td><td>0.8</td><td>9</td><td>8</td><td>0.8</td><td>240</td><td>1.5</td><td>65</td><td></td><td></td></tr><tr><td>12岁~</td><td>850</td><td>580</td><td>260</td><td>12</td><td>14</td><td>80</td><td>7.0</td><td>6.3</td><td>50</td><td>0.56</td><td>20</td><td>560</td><td>520</td><td>8</td><td>1.2</td><td>1.0</td><td>1.2</td><td>1.0</td><td>11</td><td>10</td><td>1.1</td><td>310</td><td>1.7</td><td>80</td></tr><tr><td>15岁~</td><td>800</td><td>600</td><td>270</td><td>12</td><td>14</td><td>85</td><td>9.7</td><td>6.5</td><td>50</td><td>0.59</td><td>20</td><td>580</td><td>480</td><td>8</td><td>1.4</td><td>1.1</td><td>1.3</td><td>1.0</td><td>13</td><td>10</td><td>1.2</td><td>320</td><td>2.1</td><td>85</td></tr><tr><td>18岁~</td><td>650</td><td>600</td><td>270</td><td>9</td><td>12</td><td>85</td><td>10.1</td><td>6.9</td><td>50</td><td>0.62</td><td>20</td><td>550</td><td>470</td><td>8</td><td>1.2</td><td>1.0</td><td>1.2</td><td>1.0</td><td>12</td><td>10</td><td>1.2</td><td>320</td><td>2.0</td><td>85</td></tr><tr><td>30岁~</td><td>650</td><td>590</td><td>270</td><td>9</td><td>12</td><td>85</td><td>10.1</td><td>6.9</td><td>50</td><td>0.60</td><td>20</td><td>550</td><td>470</td><td>8</td><td>1.2</td><td>1.0</td><td>1.2</td><td>1.0</td><td>12</td><td>10</td><td>1.2</td><td>320</td><td>2.0</td><td>85</td></tr><tr><td>50岁~</td><td>650</td><td>590</td><td>270</td><td>9</td><td>8a</td><td>85</td><td>10.1</td><td>6.9</td><td>50</td><td>0.60</td><td>20</td><td>540</td><td>470</td><td>8</td><td>1.2</td><td>1.0</td><td>1.2</td><td>1.0</td><td>12</td><td>10</td><td>1.3</td><td>320</td><td>2.0</td><td>85</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>12b</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>65岁~</td><td>650</td><td>570</td><td>260</td><td>9</td><td>8</td><td>85</td><td>10.1</td><td>6.9</td><td>50</td><td>0.58</td><td>20</td><td>520</td><td>460</td><td>8</td><td>1.2</td><td>1.0</td><td>1.2</td><td>1.0</td><td>12</td><td>10</td><td>1.3</td><td>320</td><td>2.0</td><td>85</td></tr><tr><td>75岁~</td><td>650</td><td>570</td><td>250</td><td>9</td><td>8</td><td>85</td><td>10.1</td><td>6.9</td><td>50</td><td>0.57</td><td>20</td><td>500</td><td>430</td><td>8</td><td>1.2</td><td>1.0</td><td>1.2</td><td>1.0</td><td>12</td><td>10</td><td>1.3</td><td>320</td><td>2.0</td><td>85</td></tr><tr><td>孕早期</td><td>+0</td><td>+0</td><td>+30</td><td>-</td><td>+0</td><td>+75</td><td>-</td><td>+1.7</td><td>+4</td><td>+0.10</td><td>+0</td><td>-</td><td>+0</td><td>+0</td><td>-</td><td>+0</td><td>-</td><td>+0</td><td>-</td><td>+0.7</td><td>+200</td><td>+0.4</td><td>+0</td><td></td></tr><tr><td>孕中期</td><td>+0</td><td>+0</td><td>+30</td><td>-</td><td>+7</td><td>+75</td><td>-</td><td>+1.7</td><td>+4</td><td>+0.10</td><td>+0</td><td>-</td><td>+50</td><td>+0</td><td>-</td><td>+0.1</td><td>-</td><td>+0.1</td><td>-</td><td>+0</td><td>+0.7</td><td>+200</td><td>+0.4</td><td>+10</td></tr><tr><td>孕晚期</td><td>+0</td><td>+0</td><td>+30</td><td>-</td><td>+10</td><td>+75</td><td>-</td><td>+1.7</td><td>+4</td><td>+0.10</td><td>+0</td><td>-</td><td>+50</td><td>+0</td><td>-</td><td>+0.2</td><td>-</td><td>+0.2</td><td>-</td><td>+0</td><td>+0.7</td><td>+200</td><td>+0.4</td><td>+10</td></tr><tr><td>乳母</td><td>+0</td><td>+0</td><td>+0</td><td>-</td><td>+6</td><td>+85</td><td>-</td><td>+4.1</td><td>+15</td><td>+0.50</td><td>+4</td><td>-</td><td>+400</td><td>+0</td><td>-</td><td>+0.2</td><td>-</td><td>+0.4</td><td>-</td><td>+3</td><td>+0.2</td><td>+130</td><td>+0.6</td><td>+40</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.086,
+                0.852,
+                0.2,
+                0.874
+            ],
+            "angle": 0,
+            "content": "注：a无月经；b有月经。"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.104,
+                0.879,
+                0.565,
+                0.902
+            ],
+            "angle": 0,
+            "content": "“一”表示未制定或未涉及；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.939,
+                0.104,
+                0.956,
+                0.222
+            ],
+            "angle": 0,
+            "content": "634"
+        }
+    ],
+    [
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.316,
+                0.103,
+                0.646,
+                0.127
+            ],
+            "angle": 0,
+            "content": "附表 3-7 膳食矿物质推荐摄入量 (RNI) 或适宜摄入量 (AI)"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.067,
+                0.133,
+                0.898,
+                0.77
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"3\">年龄/阶段</td><td>钙/(mg·d-1)</td><td>磷/(mg·d-1)</td><td>钾/(mg·d-1)</td><td>钠/(mg·d-1)</td><td>镁/(mg·d-1)</td><td>氯/(mg·d-1)</td><td>铁/(mg·d-1)</td><td>碘/(μg·d-1)</td><td>锌/(mg·d-1)</td><td>硒/(μg·d-1)</td><td>铜/(mg·d-1)</td><td>氟/(mg·d-1)</td><td>铬/(μg·d-1)</td><td>锰/(mg·d-1)</td><td>钼/(μg·d-1)</td><td></td><td></td></tr><tr><td rowspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">AI</td><td rowspan=\"2\">AI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">AI</td><td>RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">AI</td><td>AI</td><td>AI</td><td rowspan=\"2\">AI</td><td rowspan=\"2\">RNI</td><td></td></tr><tr><td>男女</td><td>男女</td><td>男女</td><td></td></tr><tr><td>0岁~</td><td>200(AI)</td><td>105(AI)</td><td>400</td><td>80</td><td>20(AI)</td><td>120</td><td>0.3(AI)</td><td>85(AI)</td><td>1.5(AI)</td><td>15(AI)</td><td>0.3(AI)</td><td>0.01</td><td>0.2</td><td>0.01</td><td>3(AI)</td><td></td><td></td></tr><tr><td>0.5岁~</td><td>350(AI)</td><td>180(AI)</td><td>600</td><td>180</td><td>65(AI)</td><td>450</td><td>10</td><td>115(AI)</td><td>3.2(AI)</td><td>20(AI)</td><td>0.3(AI)</td><td>0.23</td><td>5</td><td>0.7</td><td>6(AI)</td><td></td><td></td></tr><tr><td>1岁~</td><td>500</td><td>300</td><td>900</td><td>500~700a</td><td>140</td><td>800~1 100b</td><td>10</td><td>90</td><td>4.0</td><td>25</td><td>0.3</td><td>0.6</td><td>15</td><td>2.0</td><td>1.5</td><td>10</td><td></td></tr><tr><td>4岁~</td><td>600</td><td>350</td><td>1 100</td><td>800</td><td>160</td><td>1 200</td><td>10</td><td>90</td><td>5.5</td><td>30</td><td>0.4</td><td>0.7</td><td>15</td><td>2.0</td><td>2.0</td><td>12</td><td></td></tr><tr><td>7岁~</td><td>800</td><td>440</td><td>1 300</td><td>900</td><td>200</td><td>1 400</td><td>12</td><td>90</td><td>7.0</td><td>40</td><td>0.5</td><td>0.9</td><td>20</td><td>2.5</td><td>2.5</td><td>15</td><td></td></tr><tr><td>9岁~</td><td>1 000</td><td>550</td><td>1 600</td><td>1 100</td><td>250</td><td>1 700</td><td>16</td><td>90</td><td>7.0</td><td>45</td><td>0.6</td><td>1.1</td><td>25</td><td>3.5</td><td>3.0</td><td>20</td><td></td></tr><tr><td>12岁~</td><td>1 000</td><td>700</td><td>1 800</td><td>1 400</td><td>320</td><td>2 200</td><td>16</td><td>18</td><td>110</td><td>8.5</td><td>7.5</td><td>60</td><td>0.7</td><td>1.4</td><td>33</td><td>30</td><td>4.5</td></tr><tr><td>15岁~</td><td>1 000</td><td>720</td><td>2 000</td><td>1 600</td><td>330</td><td>2 500</td><td>16</td><td>18</td><td>120</td><td>11.5</td><td>8.0</td><td>60</td><td>0.8</td><td>1.5</td><td>35</td><td>30</td><td>5.0</td></tr><tr><td>18岁~</td><td>800</td><td>720</td><td>2 000</td><td>1 500</td><td>330</td><td>2 300</td><td>12</td><td>18</td><td>120</td><td>12.0</td><td>8.5</td><td>60</td><td>0.8</td><td>1.5</td><td>35</td><td>30</td><td>4.5</td></tr><tr><td>30岁~</td><td>800</td><td>710</td><td>2 000</td><td>1 500</td><td>320</td><td>2 300</td><td>12</td><td>18</td><td>120</td><td>12.0</td><td>8.5</td><td>60</td><td>0.8</td><td>1.5</td><td>35</td><td>30</td><td>4.5</td></tr><tr><td>50岁~</td><td>800</td><td>710</td><td>2 000</td><td>1 500</td><td>320</td><td>2 300</td><td>12</td><td>10e</td><td>120</td><td>12.0</td><td>8.5</td><td>60</td><td>0.8</td><td>1.5</td><td>30</td><td>25</td><td>4.5</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>18d</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>65岁~</td><td>800</td><td>680</td><td>2 000</td><td>1 400</td><td>310</td><td>2 200</td><td>12</td><td>10</td><td>120</td><td>12.0</td><td>8.5</td><td>60</td><td>0.8</td><td>1.5</td><td>30</td><td>25</td><td>4.5</td></tr><tr><td>75岁~</td><td>800</td><td>680</td><td>2 000</td><td>1 400</td><td>300</td><td>2 200</td><td>12</td><td>10</td><td>120</td><td>12.0</td><td>8.5</td><td>60</td><td>0.7</td><td>1.5</td><td>30</td><td>25</td><td>4.5</td></tr><tr><td>孕早期</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td><td>+40</td><td>+0</td><td>-</td><td>+0</td><td>+110</td><td>-</td><td>+2.0</td><td>+5</td><td>+0.1</td><td>+0</td><td>-</td><td>+0</td><td>+0</td></tr><tr><td>孕中期</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td><td>+40</td><td>+0</td><td>-</td><td>+7</td><td>+110</td><td>-</td><td>+2.0</td><td>+5</td><td>+0.1</td><td>+0</td><td>-</td><td>+3</td><td>+0</td></tr><tr><td>孕晚期</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td><td>+40</td><td>+0</td><td>-</td><td>+11</td><td>+110</td><td>-</td><td>+2.0</td><td>+5</td><td>+0.1</td><td>+0</td><td>-</td><td>+5</td><td>+0</td></tr><tr><td>乳母</td><td>+0</td><td>+0</td><td>+400</td><td>+0</td><td>+0</td><td>+0</td><td>-</td><td>+6</td><td>+120</td><td>-</td><td>+4.5</td><td>+18</td><td>+0.7</td><td>+0</td><td>-</td><td>+5</td><td>+0.2</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.085,
+                0.772,
+                0.378,
+                0.793
+            ],
+            "angle": 0,
+            "content": "注： \\( {}^{a}1 \\) 岁~为 \\( {500}\\mathrm{{mg}}/\\mathrm{d},2 \\) 岁~为 \\( {600}\\mathrm{{mg}}/\\mathrm{d},3 \\) 岁~为 \\( {700}\\mathrm{{mg}}/\\mathrm{d} \\) 。"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.103,
+                0.798,
+                0.385,
+                0.821
+            ],
+            "angle": 0,
+            "content": "1岁~为 \\(800\\mathrm{mg / d},2\\) 岁~为 \\(900\\mathrm{mg / d},3\\) 岁~为 \\(1100\\mathrm{mg / d}\\)"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.103,
+                0.826,
+                0.151,
+                0.848
+            ],
+            "angle": 0,
+            "content": "无月经。"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.103,
+                0.853,
+                0.151,
+                0.874
+            ],
+            "angle": 0,
+            "content": "有月经。"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.103,
+                0.878,
+                0.519,
+                0.9
+            ],
+            "angle": 0,
+            "content": "“一”表示未涉及；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.085,
+                0.772,
+                0.519,
+                0.9
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.942,
+                0.363,
+                0.962,
+                0.901
+            ],
+            "angle": 0,
+            "content": "华三《中国医药城药品参考量（2023版）分米表635"
+        }
+    ],
+    [
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.316,
+                0.103,
+                0.645,
+                0.127
+            ],
+            "angle": 0,
+            "content": "附表 3-8 膳食维生素推荐摄入量 (RNI) 或适宜摄入量 (AI)"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.067,
+                0.13,
+                0.898,
+                0.876
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"3\">年龄/阶段</td><td colspan=\"2\">维生素A/(μgRAE·d-1)</td><td colspan=\"2\">维生素D/(μg·d-1)</td><td>维生素E/(mg α-TE·d-1)</td><td>维生素K/(μg·d-1)</td><td>维生素B1/(mg·d-1)</td><td>维生素B2/(mg·d-1)</td><td>烟酸/(mg NE·d-1)</td><td>维生素B6/(mg·d-1)</td><td>叶酸/(μg DFE·d-1)</td><td>维生素B12/(μg·d-1)</td><td>泛酸/(mg·d-1)</td><td>生物素/(μg·d-1)</td><td>胆碱/(mg·d-1)</td><td>维生素C/(mg·d-1)</td><td></td></tr><tr><td colspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">AI</td><td rowspan=\"2\">AI</td><td colspan=\"2\">RNI</td><td>RNI</td><td colspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">RNI</td><td rowspan=\"2\">AI</td><td rowspan=\"2\">AI</td><td>AI</td><td rowspan=\"2\">RNI</td></tr><tr><td colspan=\"2\">男女</td><td colspan=\"2\">男女</td><td>男女</td><td colspan=\"2\">男女</td><td>男女</td></tr><tr><td>0岁~</td><td colspan=\"2\">300(AI)</td><td>10(AI)</td><td>3</td><td>2</td><td colspan=\"2\">0.1(AI)</td><td>0.4(AI)</td><td colspan=\"2\">1(AI)</td><td>0.1(AI)</td><td>65(AI)</td><td>0.3(AI)</td><td>1.7</td><td>5</td><td>120</td><td>40(AI)</td></tr><tr><td>0.5岁~</td><td colspan=\"2\">350(AI)</td><td>10(AI)</td><td>4</td><td>10</td><td colspan=\"2\">0.3(AI)</td><td>0.6(AI)</td><td colspan=\"2\">2(AI)</td><td>0.3(AI)</td><td>100(AI)</td><td>0.6(AI)</td><td>1.9</td><td>10</td><td>140</td><td>40(AI)</td></tr><tr><td>1岁~</td><td>340</td><td>330</td><td>10</td><td>6</td><td>30</td><td colspan=\"2\">0.6</td><td>0.7</td><td>0.6</td><td>6</td><td>5</td><td>0.6</td><td>160</td><td>1.0</td><td>2.1</td><td>17</td><td>40</td></tr><tr><td>4岁~</td><td>390</td><td>380</td><td>10</td><td>7</td><td>40</td><td colspan=\"2\">0.9</td><td>0.9</td><td>0.8</td><td>7</td><td>6</td><td>0.7</td><td>190</td><td>1.2</td><td>2.5</td><td>20</td><td>50</td></tr><tr><td>7岁~</td><td>430</td><td>390</td><td>10</td><td>9</td><td>50</td><td>1.0</td><td>0.9</td><td>1.0</td><td>0.9</td><td>9</td><td>8</td><td>0.8</td><td>240</td><td>1.4</td><td>3.1</td><td>25</td><td>60</td></tr><tr><td>9岁~</td><td>560</td><td>540</td><td>10</td><td>11</td><td>60</td><td>1.1</td><td>1.0</td><td>1.1</td><td>1.0</td><td>10</td><td>10</td><td>1.0</td><td>290</td><td>1.8</td><td>3.8</td><td>30</td><td>75</td></tr><tr><td>12岁~</td><td>780</td><td>730</td><td>10</td><td>13</td><td>70</td><td>1.4</td><td>1.2</td><td>1.4</td><td>1.2</td><td>13</td><td>12</td><td>1.3</td><td>370</td><td>2.0</td><td>4.9</td><td>35</td><td>95</td></tr><tr><td>15岁~</td><td>810</td><td>670</td><td>10</td><td>14</td><td>75</td><td>1.6</td><td>1.3</td><td>1.6</td><td>1.2</td><td>15</td><td>12</td><td>1.4</td><td>400</td><td>2.5</td><td>5.0</td><td>40</td><td>100</td></tr><tr><td>18岁~</td><td>770</td><td>660</td><td>10</td><td>14</td><td>80</td><td>1.4</td><td>1.2</td><td>1.4</td><td>1.2</td><td>15</td><td>12</td><td>1.4</td><td>400</td><td>2.4</td><td>5.0</td><td>40</td><td>100</td></tr><tr><td>30岁~</td><td>770</td><td>660</td><td>10</td><td>14</td><td>80</td><td>1.4</td><td>1.2</td><td>1.4</td><td>1.2</td><td>15</td><td>12</td><td>1.4</td><td>400</td><td>2.4</td><td>5.0</td><td>40</td><td>100</td></tr><tr><td>50岁~</td><td>750</td><td>660</td><td>10</td><td>14</td><td>80</td><td>1.4</td><td>1.2</td><td>1.4</td><td>1.2</td><td>15</td><td>12</td><td>1.6</td><td>400</td><td>2.4</td><td>5.0</td><td>40</td><td>100</td></tr><tr><td>65岁~</td><td>730</td><td>640</td><td>15</td><td>14</td><td>80</td><td>1.4</td><td>1.2</td><td>1.4</td><td>1.2</td><td>15</td><td>12</td><td>1.6</td><td>400</td><td>2.4</td><td>5.0</td><td>40</td><td>100</td></tr><tr><td>75岁~</td><td>710</td><td>600</td><td>15</td><td>14</td><td>80</td><td>1.4</td><td>1.2</td><td>1.4</td><td>1.2</td><td>15</td><td>12</td><td>1.6</td><td>400</td><td>2.4</td><td>5.0</td><td>40</td><td>100</td></tr><tr><td>孕早期</td><td>-</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td><td>-</td><td>+0</td><td>-</td><td>+0</td><td>-</td><td>+0</td><td>+0.8</td><td>+200</td><td>+0.5</td><td>+1.0</td><td>+10</td><td>+80</td></tr><tr><td>孕中期</td><td>-</td><td>+70</td><td>+0</td><td>+0</td><td>+0</td><td>-</td><td>+0.2</td><td>-</td><td>+0.1</td><td>-</td><td>+0</td><td>+0.8</td><td>+200</td><td>+0.5</td><td>+1.0</td><td>+10</td><td>+80</td></tr><tr><td>孕晚期</td><td>-</td><td>+70</td><td>+0</td><td>+0</td><td>+0</td><td>-</td><td>+0.3</td><td>-</td><td>+0.2</td><td>-</td><td>+0</td><td>+0.8</td><td>+200</td><td>+0.5</td><td>+1.0</td><td>+10</td><td>+80</td></tr><tr><td>乳母</td><td>-</td><td>+600</td><td>+0</td><td>+3</td><td>+5</td><td>-</td><td>+0.3</td><td>-</td><td>+0.5</td><td>-</td><td>+4</td><td>+0.3</td><td>+150</td><td>+0.8</td><td>+2.0</td><td>+10</td><td>+120</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.085,
+                0.877,
+                0.52,
+                0.899
+            ],
+            "angle": 0,
+            "content": "注：“一”表示未涉及；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.942,
+                0.102,
+                0.959,
+                0.221
+            ],
+            "angle": 90,
+            "content": "636附录"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.363,
+                0.037,
+                0.862,
+                0.053
+            ],
+            "angle": 0,
+            "content": "附录三 《中国居民膳食营养素参考摄入量(2023版)》分类总表"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.871,
+                0.038,
+                0.902,
+                0.052
+            ],
+            "angle": 0,
+            "content": "637"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.195,
+                0.099,
+                0.814,
+                0.117
+            ],
+            "angle": 0,
+            "content": "附表 3-9 膳食营养素降低膳食相关非传染性疾病风险的建议摄入量 (PI-NCD)"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.777,
+                0.123,
+                0.863,
+                0.139
+            ],
+            "angle": 0,
+            "content": "单位：mg/d"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.104,
+                0.144,
+                0.902,
+                0.715
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>年龄/阶段</td><td>钾</td><td>钠</td><td>维生素C</td></tr><tr><td>0岁~</td><td></td><td></td><td></td></tr><tr><td>0.5岁~</td><td></td><td></td><td></td></tr><tr><td>1岁~</td><td></td><td></td><td></td></tr><tr><td>4岁~</td><td>1800</td><td>≤1 000</td><td></td></tr><tr><td>7岁~</td><td>2 200</td><td>≤1 200</td><td></td></tr><tr><td>9岁~</td><td>2 800</td><td>≤1 500</td><td></td></tr><tr><td>12岁~</td><td>3 200</td><td>≤1 900</td><td></td></tr><tr><td>15岁~</td><td>3 600</td><td>≤2 100</td><td></td></tr><tr><td>18岁~</td><td>3 600</td><td>≤2 000</td><td>200</td></tr><tr><td>30岁~</td><td>3 600</td><td>≤2 000</td><td>200</td></tr><tr><td>50岁~</td><td>3 600</td><td>≤2 000</td><td>200</td></tr><tr><td>65岁~</td><td>3 600</td><td>≤1 900</td><td>200</td></tr><tr><td>75岁~</td><td>3 600</td><td>≤1 800</td><td>200</td></tr><tr><td>孕早期</td><td>+0</td><td>+0</td><td>+0</td></tr><tr><td>孕中期</td><td>+0</td><td>+0</td><td>+0</td></tr><tr><td>孕晚期</td><td>+0</td><td>+0</td><td>+0</td></tr><tr><td>乳母</td><td>+0</td><td>+0</td><td>+0</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.136,
+                0.716,
+                0.508,
+                0.732
+            ],
+            "angle": 0,
+            "content": "注：孕期、哺乳期女性的 PI-NCD 与同年龄女性相同。"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.161,
+                0.735,
+                0.755,
+                0.75
+            ],
+            "angle": 0,
+            "content": "“一”表示未制定；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.136,
+                0.716,
+                0.755,
+                0.75
+            ],
+            "angle": 0,
+            "content": null
+        }
+    ],
+    [
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.337,
+                0.1,
+                0.626,
+                0.123
+            ],
+            "angle": 0,
+            "content": "附表 3-10 膳食微量营养素可耐受最高摄入量(UL)"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.067,
+                0.128,
+                0.898,
+                0.873
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>年龄/阶段</td><td>钙/(mg·d-1)</td><td>磷/(mg·d-1)</td><td>铁/(mg·d-1)</td><td>碘/(mg·d-1)</td><td>锌/(mg·d-1)</td><td>硒/(mg·d-1)</td><td>铜/(mg·d-1)</td><td>氟/(mg·d-1)</td><td>锰/(mg·d-1)</td><td>钼/(μg·d-1)</td><td>维生素A/(μg·d-1)</td><td>维生素D/(μg·d-1)</td><td>维生素E/(mg·d-1)</td><td>烟酸/(mg·NE·d-1)</td><td>烟酰胺/(mg·d-1)</td><td>维生素B6/(mg·d-1)</td><td>叶酸/(μg·d-1)</td><td>胆碱/(mg·d-1)</td><td>维生素C/(mg·d-1)</td></tr><tr><td>0岁~</td><td>1000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>55</td><td>-</td><td>-</td><td>-</td><td>-</td><td>600</td><td>20</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>0.5岁~</td><td>1500</td><td>-</td><td>-</td><td>-</td><td>-</td><td>80</td><td>-</td><td>-</td><td>-</td><td>-</td><td>600</td><td>20</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1岁~</td><td>1500</td><td>-</td><td>25</td><td>-</td><td>9</td><td>80</td><td>2.0</td><td>0.8</td><td>-</td><td>200</td><td>700</td><td>20</td><td>150</td><td>11</td><td>100</td><td>20</td><td>300</td><td>1000</td><td>400</td></tr><tr><td>4岁~</td><td>2000</td><td>-</td><td>30</td><td>200</td><td>13</td><td>120</td><td>3.0</td><td>1.1</td><td>3.5</td><td>300</td><td>1000</td><td>30</td><td>200</td><td>15</td><td>130</td><td>25</td><td>400</td><td>1000</td><td>600</td></tr><tr><td>7岁~</td><td>2000</td><td>-</td><td>35</td><td>250</td><td>21</td><td>150</td><td>3.0</td><td>1.5</td><td>5.0</td><td>400</td><td>1300</td><td>45</td><td>300</td><td>19</td><td>160</td><td>32</td><td>500</td><td>2000</td><td>800</td></tr><tr><td>9岁~</td><td>2000</td><td>-</td><td>35</td><td>250</td><td>24</td><td>200</td><td>5.0</td><td>2.0</td><td>6.5</td><td>500</td><td>1800</td><td>45</td><td>400</td><td>23</td><td>200</td><td>40</td><td>650</td><td>2000</td><td>1100</td></tr><tr><td>12岁~</td><td>2000</td><td>-</td><td>40</td><td>300</td><td>32</td><td>300</td><td>6.0</td><td>2.4</td><td>9.0</td><td>700</td><td>2400</td><td>50</td><td>500</td><td>30</td><td>260</td><td>50</td><td>800</td><td>2000</td><td>1600</td></tr><tr><td>15岁~</td><td>2000</td><td>-</td><td>40</td><td>500</td><td>37</td><td>350</td><td>7.0</td><td>3.5</td><td>10</td><td>800</td><td>2800</td><td>50</td><td>600</td><td>33</td><td>290</td><td>55</td><td>900</td><td>2500</td><td>1800</td></tr><tr><td>18岁~</td><td>2000</td><td>3500</td><td>42</td><td>600</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>310</td><td>60</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>30岁~</td><td>2000</td><td>3500</td><td>42</td><td>600</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>310</td><td>60</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>50岁~</td><td>2000</td><td>3500</td><td>42</td><td>600</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>310</td><td>55</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>65岁~</td><td>2000</td><td>3000</td><td>42</td><td>600</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>300</td><td>55</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>75岁~</td><td>2000</td><td>3000</td><td>42</td><td>600</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>290</td><td>55</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>孕早期</td><td>2000</td><td>3500</td><td>42</td><td>500</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>310</td><td>60</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>孕中期</td><td>2000</td><td>3500</td><td>42</td><td>500</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>310</td><td>60</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>孕晚期</td><td>2000</td><td>3500</td><td>42</td><td>500</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>310</td><td>60</td><td>1000</td><td>3000</td><td>2000</td></tr><tr><td>乳母</td><td>2000</td><td>3500</td><td>42</td><td>500</td><td>40</td><td>400</td><td>8.0</td><td>3.5</td><td>11</td><td>900</td><td>3000</td><td>50</td><td>700</td><td>35</td><td>310</td><td>60</td><td>1000</td><td>3000</td><td>2000</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.086,
+                0.874,
+                0.195,
+                0.895
+            ],
+            "angle": 0,
+            "content": "注：“—”表示未制定。"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.944,
+                0.102,
+                0.961,
+                0.221
+            ],
+            "angle": 90,
+            "content": "638 附录"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.361,
+                0.035,
+                0.855,
+                0.051
+            ],
+            "angle": 0,
+            "content": "附录三 《中国居民膳食营养素参考摄入量（2023版)》分类总表"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.868,
+                0.036,
+                0.898,
+                0.049
+            ],
+            "angle": 0,
+            "content": "639"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.384,
+                0.098,
+                0.616,
+                0.114
+            ],
+            "angle": 0,
+            "content": "附表 3-11 水的适宜摄入量 \\( {}^{\\mathrm{a}} \\)"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.771,
+                0.121,
+                0.859,
+                0.136
+            ],
+            "angle": 0,
+            "content": "单位： \\(\\mathrm{mL / d}\\)"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.104,
+                0.142,
+                0.896,
+                0.431
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">年龄/阶段</td><td colspan=\"2\">饮水量</td><td colspan=\"2\">总摄入量b</td></tr><tr><td>男性</td><td>女性</td><td>男性</td><td>女性</td></tr><tr><td>0岁~</td><td>-</td><td></td><td>700°</td><td></td></tr><tr><td>0.5岁~</td><td>-</td><td></td><td>900</td><td></td></tr><tr><td>1岁~</td><td>-</td><td></td><td>1300</td><td></td></tr><tr><td>4岁~</td><td>800</td><td></td><td>1600</td><td></td></tr><tr><td>7岁~</td><td>1000</td><td></td><td>1800</td><td></td></tr><tr><td>12岁~</td><td>1300</td><td>1100</td><td>2300</td><td>2000</td></tr><tr><td>15岁~</td><td>1400</td><td>1200</td><td>2500</td><td>2200</td></tr><tr><td>18岁~</td><td>1700</td><td>1500</td><td>3000</td><td>2700</td></tr><tr><td>65岁~</td><td>1700</td><td>1500</td><td>3000</td><td>2700</td></tr><tr><td>孕早期</td><td>-</td><td>+0</td><td>-</td><td>+0</td></tr><tr><td>孕中期</td><td>-</td><td>+200</td><td>-</td><td>+300</td></tr><tr><td>孕晚期</td><td>-</td><td>+200</td><td>-</td><td>+300</td></tr><tr><td>乳母</td><td>-</td><td>+600</td><td>-</td><td>+1100</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.102,
+                0.432,
+                0.899,
+                0.467
+            ],
+            "angle": 0,
+            "content": "注：a温和气候条件下，低强度身体活动水平时的摄入量。在不同温湿度和/或不同强度身体活动水平时，应进行相应调整。"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.131,
+                0.47,
+                0.368,
+                0.485
+            ],
+            "angle": 0,
+            "content": "b包括食物中的水和饮水中的水。"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.131,
+                0.489,
+                0.399,
+                0.504
+            ],
+            "angle": 0,
+            "content": "纯母乳喂养婴儿无需额外补充水分。"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.131,
+                0.509,
+                0.724,
+                0.524
+            ],
+            "angle": 0,
+            "content": "“一”表示未涉及；“+”表示在相应年龄阶段的成年女性需要量基础上增加的需要量。"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.102,
+                0.432,
+                0.899,
+                0.524
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.196,
+                0.542,
+                0.804,
+                0.559
+            ],
+            "angle": 0,
+            "content": "附表 3-12 其他膳食成分成年人特定建议值(SPL)和可耐受最高摄入量(UL)"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.104,
+                0.563,
+                0.898,
+                0.894
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>其他膳食成分</td><td>SPL</td><td>UL</td></tr><tr><td>原花青素/(mg·d-1)</td><td>200</td><td>-</td></tr><tr><td>花色苷/(mg·d-1)</td><td>50</td><td>-</td></tr><tr><td>大豆异黄酮/(mg·d-1)</td><td>55a</td><td>120c</td></tr><tr><td></td><td>75b</td><td></td></tr><tr><td>绿原酸/(mg·d-1)</td><td>200</td><td>-</td></tr><tr><td>番茄红素/(mg·d-1)</td><td>15</td><td>70</td></tr><tr><td>叶黄素/(mg·d-1)</td><td>10</td><td>60</td></tr><tr><td>植物甾醇/(g·d-1)</td><td>0.8</td><td>2.4</td></tr><tr><td>植物甾醇酯/(g·d-1)</td><td>1.3</td><td>3.9</td></tr><tr><td>异硫氰酸酯/(mg·d-1)</td><td>30</td><td>-</td></tr><tr><td>辅酶Q10/(mg·d-1)</td><td>100</td><td>-</td></tr><tr><td>甜菜碱/(g·d-1)</td><td>1.5</td><td>4.0</td></tr><tr><td>菊粉或低聚果糖/(g·d-1)</td><td>10</td><td>-</td></tr><tr><td>β-葡聚糖(谷物来源)/(g·d-1)</td><td>3.0</td><td>-</td></tr><tr><td>硫酸/盐酸氨基葡萄糖/(mg·d-1)</td><td>1500</td><td>-</td></tr><tr><td>氨基葡萄糖/(mg·d-1)</td><td>1000</td><td>-</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.133,
+                0.896,
+                0.685,
+                0.911
+            ],
+            "angle": 0,
+            "content": "注：a绝经前女性的SPL；b围绝经期和绝经后女性的SPL；c绝经后女性的SPL。"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.159,
+                0.914,
+                0.29,
+                0.929
+            ],
+            "angle": 0,
+            "content": "“一”表示未制定。"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.133,
+                0.896,
+                0.685,
+                0.929
+            ],
+            "angle": 0,
+            "content": null
+        }
+    ]
+]
